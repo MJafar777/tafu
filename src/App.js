@@ -427,6 +427,9 @@ const arr = [
 const App = () => {
   return (
     <div>
+      <h4 style={{ color: "red" }}>
+        qidirish uchun : "ctrl + f" ni bosing va savolni yozing!
+      </h4>
       <TestResponse />
     </div>
   );
