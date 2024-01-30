@@ -145,812 +145,1948 @@ const TestResponse = () => {
   return (
     <div style={{ fontFamily: "sans-serif" }}>
       <h1 style={{ textAlign: "center", fontFamily: "sans-serif" }}>
-        Tafu Uchun maxsuz. Nutq ma'daniyati
+        Tafu Uchun maxsuz. Informatika
       </h1>
       <table border="1">
         <tr>
-          <th>SavolLar</th>
-          <th>Javoblar</th>
+          <th>•</th>
         </tr>
         <tr>
-          <td>
-            Nutq madaniyati haqidagi ta'limot qaysi qadimiy davlatda
-            shakllangan.
-          </td>
-          <td>Rim</td>
-        </tr>
-        <tr>
-          <td>
-            Notiqlikning san'at darajasiga ko'tarilishida qaysi sohalarning
-            alohida o'rni bo'lgan.{" "}
-          </td>
-          <td>Savdo-sotiq va sud ishlari</td>
+          <td>INT turi uchun qaysi amallar o’rinli</td>
         </tr>
         <tr>
-          <td>
-            "Tarixda yo yaxshi harbiy sarkarda, yo yaxshi notiq bo'lish
-            kerak"-degan fikr qaysi mashhur notiqga tegishli.
-          </td>
-          <td>Sitsiron</td>
+          <td>qo’shish, ayirish, butun sonli bo’lish, qoldiqli bo’lish</td>
         </tr>
         <tr>
-          <td>Arastotelni Notiqlik san'ati haqida qanday asari mavjud.</td>
-          <td>Ritorika</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            "Brut" notiqlik san'ati haqidagi mashhur asar qaysi mashhur
-            notiqniki.
-          </td>
-          <td>Setseron</td>
+          <td>FLOAT turi uchun qaysi amallar o’rinli</td>
         </tr>
         <tr>
-          <td>
-            O'rta Osiyo madaniyatI tarixida, nutq madaniyatiga munosib hissa qo
-            'shgan siymolarimizni belgilang.
-          </td>
-          <td>Beruniy,Koshg'ariy, Y.Xos Hojib</td>
+          <td>qo’shish, ayrish, ko’paytirish, bo’lish</td>
         </tr>
         <tr>
-          <td>Qobusnoma kimning asari </td>
-          <td>Kaykovus</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            Nutq madaniyati va notiqlik san'ati fanini o'rganish obekti nima?
-          </td>
-          <td>Til (adabiy til me'yorlari)</td>
+          <td>STRUCT kalit so’zi yordamida qanday tuzilma yaratiladi</td>
         </tr>
         <tr>
-          <td>Nutqning nechA xil shakli mavjud.</td>
-          <td>2xil</td>
+          <td>Yozuv</td>
         </tr>
         <tr>
-          <td>
-            Ikki va undan ortiq kishilarning muloqat jarayoni nima deyiladi.
-          </td>
-          <td>Diolog</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>O 'rta Osiyoda notiqlarni kim deb atashgan.</td>
-          <td>Nadimlar, qiroatxonlar</td>
+          <td>Algoritm nima?</td>
         </tr>
         <tr>
-          <td>Til me'yorlarini buzuvchi omillar.</td>
-          <td>Begona tillardan kirib kelgan so'zlar</td>
+          <td>amallar ketma-ketligi</td>
         </tr>
         <tr>
-          <td>Nutq madaniyati sohasi ………sohalar bilan aloqador.</td>
-          <td>Poetika, estetika, mantiq</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            O'zbek tiliga davlat tili maqomaning berilishi qaysi yil bilan
-            bog'liq.
+            C++ tilida tuzilmani yaratish uchun ishlatiladigan kalit so’zi
           </td>
-          <td>1989-21 oktyabr</td>
         </tr>
         <tr>
-          <td>
-            Nutq madaniyati haqidagi dastlabki ta'limot qaysi davlatlarda
-            shakllangan.
-          </td>
-          <td>Misr, Assuriya, Hindiston</td>
+          <td>struct</td>
         </tr>
         <tr>
-          <td>
-            ….. arabcha so 'zdan olingan bo'lib, ta'lim, tarbiyalilik va
-            ziyolilik ma'nolarini anglatadi.{" "}
-          </td>
-          <td>Madaniyat</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Insonning nutq faoliyatidagi ko'rinishlari qaysi?</td>
-          <td>So'zlash, mutolaa qilish va eshitish.</td>
+          <td>Ma’lumotlar tuzilmasi nima</td>
         </tr>
         <tr>
           <td>
-            Muayyan umumxalq tilining qayta ishlangan va me'yorlashtirilgan,
-            mazkur tilda so'zlashuvchi xalqning batcha vakili uchun tushunarli
-            madaniy ehtiyojiga xizmat qiladigan til qanday til deyiladi?
+            bu ma’lumot elementlari va ular orasidagi munosabatlar majmuasi
           </td>
-          <td>Adabiy til</td>
         </tr>
         <tr>
-          <td>`Til qanday hodisa?</td>
-          <td>Ijtimoiy hodisa</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Nutqning eng muhim aloqaviy fazilati nima?</td>
-          <td>Nutqning to'g'riligi</td>
-        </tr>
-        <tr>
-          <td>
-            Nutq to 'g 'ri bo 'lishi uchun qanday me'yorlarga amal qilish kerak
-          </td>
-          <td>Urg'u va grammatika</td>
+          <td>Qaysi biri true kalit so’ziga mos qiymatini aniqlaydi?</td>
         </tr>
         <tr>
-          <td>Urg' u nechi turga bo'linadi ?</td>
-          <td>2turga </td>
+          <td>1</td>
         </tr>
         <tr>
-          <td>Urg'u nimaga xizmat qiladi?</td>
-          <td>Ma'no farqlashga</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            So'zning o'zi ifodalayotgan voqeylikka mutlaqo mos va muofiq
-            kelishiga nima deyiladi?{" "}
-          </td>
-          <td>Nutqning aniqligi</td>
+          <td>Qaysi biri false kalit so’ziga mos qiymatini aniqlaydi?</td>
         </tr>
         <tr>
-          <td>Nutqning sofliliga putur yetkazadigan omillar</td>
-          <td>Jargonlar, shevaga oid so'zlar, takrorlar</td>
+          <td>0</td>
         </tr>
         <tr>
-          <td>
-            Nutqda o'rinsiz ishlatilgan boshqa tillarga oid so'zlar……. Deyiladi.
-          </td>
-          <td>Varvarizmlar</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Uxlab yotibsanmi xunasa. Gapda qanday so'z qo'llangan?</td>
-          <td>Vulgarizmlar</td>
+          <td>Shartli operator if tanasi qachon bajariladi?</td>
         </tr>
         <tr>
-          <td>
-            Ish qog'ozlari uchun zarur bo'lgan ma'lum bir shaklda saqlanadigan
-            so'z birikmalariga………deyiladi.
-          </td>
-          <td>Kanselyarizmlar</td>
+          <td>rost (true)</td>
         </tr>
         <tr>
-          <td>
-            Yaxlit bir sistema asosida tuzilgan, fikrlar rivoji izchil bo'lgan,
-            har bir so'z aniq maqsadga yo'naltirilgan nutq….deyiladi
-          </td>
-          <td>Nutqning mantiqiyligi </td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Ma'lumotni birovga yetkazish va bir shaxsning muloqat jarayoni nima
-            deyiladi?
+            Qaysi kalit so’z butun sonli o’zgaruvchi faqat musbat qiymatlarni
+            qabul qilishini ko’rsatadi?
           </td>
-          <td>Monolog</td>
         </tr>
         <tr>
-          <td>Ma'ndosh so'zlar nima deyiladi?</td>
-          <td>Sinonimlar.</td>
+          <td>unsigned</td>
         </tr>
         <tr>
-          <td>Intonatsiya nima?</td>
-          <td>Nutqning ta'sirchan va ifodaliyligi</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Kasbiy ma'no bildiruvchi va ifodalovchi so'zlar qanday so'zlar
-            deyiladi?
+            Massivning oxirgi elemenning tartib raqami nimaga teng bo’ladi, agar
+            massiv o’lchami 19 teng bo’lsa?
           </td>
-          <td>Terminlar</td>
         </tr>
         <tr>
-          <td>
-            Kridet, audet, hisobot . Keltirilgan so'zlar qanday so'zlar
-            deyil;adi?
-          </td>
-          <td>Termin</td>
-        </tr>
-        <tr>
-          <td>Notiqlikning necha xil ko'rinishlari mavjud?</td>
-          <td>5ta</td>
-        </tr>
-        <tr>
-          <td>Siyosiy-ijtimoiy nutq turlari.</td>
-          <td>Diplomatik nutq, Miting nutqi, Ilmiy-ommabop nutq</td>
-        </tr>
-        <tr>
-          <td>Diniy nutq.</td>
-          <td>Xutba, Va'z</td>
+          <td>18</td>
         </tr>
         <tr>
-          <td>Akademik notiqlik </td>
-          <td>O'quv yurtlari ma'ruzalari, Ilmiy axborot</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Ijtimoiy-maishiy notiqlik </td>
-          <td>Ta'ziya (nutqi), Tabrik nutqi.</td>
-        </tr>
-        <tr>
-          <td>
-            Sud jarayonida boshqa birov manfaatini ko'zlab nutq so'zlovchiga
-            ………….. Deyiladi
-          </td>
-          <td>Sinegorlar</td>
-        </tr>
-        <tr>
           <td>
-            Nutq matnlarini tuzib, yozib, tayyorlab beradigan vakillarf nima
-            deyiladi?
+            Ma’lumotlar tuzilmasi ustida qanday to’rtta asosiy amal bajariladi
           </td>
-          <td>Logograflar</td>
         </tr>
         <tr>
-          <td>Yunon notiqlari vakillari kimlar?</td>
-          <td>Perikl, Lisiy, Aristotel</td>
+          <td>yaratish, o’chirish, tanlash (ruxsat olish), yangilash.</td>
         </tr>
         <tr>
-          <td>Quyidagi so‘zlarning qaysi biri antonimlar qatoriga kirmaydi?</td>
-          <td>chiroyli - badbasharalik</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Eramizdan avvalgi V VI asrda yashab o'tgan taniqli sud olimi kim?
+            Ma’lumotlarni kompyuter xotirasda akslantirish nechta bosqichdan
+            iborat?
           </td>
-          <td>belgi</td>
         </tr>
         <tr>
-          <td>Kontekstual sinonimlar deb qanday sinonimlarga aytiladi?</td>
-          <td>Lisiy</td>
+          <td>3 ta</td>
         </tr>
         <tr>
-          <td>Demosfen nechinchi yillarda yashagan?</td>
-          <td>Eramizgacha 384-322 -yillar.</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Aristotel Retorika asarini qachon yozadi?</td>
-          <td>Eramizdan avvalgi 335-yillar</td>
+          <td>Ma’lumotlar tuzilmasi mazmunli (matematik) bosqichda ...</td>
         </tr>
         <tr>
           <td>
-            Leksikologiyaning nutqni obrazli ifodalashga xizmat qiluvchi
-            bo‘limi?
+            konkret obyektning qayta ishlash, ularning xussusiyatlari va
+            munosabatlarini tadqiq qilinadi.
           </td>
-          <td>frazeologiya</td>
-        </tr>
-        <tr>
-          <td>Ritorika asari nechi qismdan iborat</td>
-          <td>3 qism</td>
         </tr>
         <tr>
-          <td>
-            "Notiqlik haqida" , "Notiq, ", "Brut" notiqlik san'ati tarixidagi
-            mashhur asarlarni muallifi kim?
-          </td>
-          <td>Sitsiron</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Rimdagi notiqlik maktabining asoschisi kim? </td>
-          <td>Kvintalyon</td>
+          <td>Ma’lumotlar tuzilmasi mantiqiy bosqichda ...</td>
         </tr>
         <tr>
-          <td>Notiqlar deb kimlarga aytiladi?</td>
           <td>
-            So'zining to'g'ri va aniqligi bilan boshqalarga ta'sir qilish
-            doirasi keng bo'lgan so'z ustalariga
+            berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq
+            qilinadi.
           </td>
         </tr>
         <tr>
-          <td>Voizlar kimlar?</td>
-          <td>Fikri tiniq, nasihatgo'y halol va shirali ovoz sohibi</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>So‘zning ko‘chma ma’nosi deyilganda nima nazarda tutiladi?</td>
-          <td>
-            nutq tarkibidagi boshqa so‘zlar yordamida anglashiladigan ma’nosi
-          </td>
+          <td>Ma’lumotlar tuzilmasi fizik bosqichda ...</td>
         </tr>
         <tr>
           <td>
-            Odam – kishi– inson – bashar; ko‘krak – ko‘ks – bag‘ir – to‘sh –
-            siyna sinonimik qatorlardagi poetik (badiiy) uslubga xos leksemalar
-            berilgan qatorni toping.
+            kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.
           </td>
-          <td>bashar, siyna </td>
         </tr>
         <tr>
-          <td>Notiq so'zi qaysi tildan olingan?</td>
-          <td>Arab tilidan</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Ular shahardagi eshigida yashashgan. Bu gapda ma'no ko'chishining
-            qaysi turi ishlatilgan.
+            Bir xil tipdagi o’zaro takrorlanmaydigan elementlardan iborat majmua
           </td>
-          <td>Sinekdoxa</td>
         </tr>
         <tr>
-          <td>
-            Geradot tarixini takror vatakror o'qib chiqdim. Ma'no ko'chishining
-            qaysi biri qo'llangan?
-          </td>
-          <td>Metonimya</td>
+          <td>To’plam</td>
         </tr>
         <tr>
-          <td>Umumiy fonetikaning o‘rganish obyekti?</td>
-          <td>Nutq tovushlari, ularning turlari, o‘zgarishlari</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            Arabcha "zakiy" so'zidan olingan bo'lib "Xozirjavob o'tkir zehnli"
-            degan ma'nolarni anglatadi. Tarif qaysi variantga xos?
-          </td>
-          <td>Askiyachi</td>
+          <td>Bir xil tipdagi elementlar majmuasi</td>
         </tr>
         <tr>
-          <td>
-            Nutq a’zolari vositasida hosil qilinadigan, ma’no ifodalaydigan
-            so‘zlarni shakllantirishda xizmat qiladigan tovushlarga nima
-            deyiladi?
-          </td>
-          <td>Nutq tovushlari</td>
+          <td>Massiv</td>
         </tr>
         <tr>
-          <td>Badihago'y qaysi tildan olingan? </td>
-          <td>Arabcha</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            xozirjavob, va soziga chechan kishilarni she'riy usulda tezda
-            muloqatga kirishib ketaolishiga{" "}
-          </td>
-          <td>Badixago'y</td>
+          <td>Turli tipdagi ma’lumotlardan qanday tuzilma xosil qilinadi?</td>
         </tr>
         <tr>
-          <td>
-            xozirjavob, va soziga chechan kishilarni she'riy usulda tezda
-            muloqatga kirishib ketaolishiga{" "}
-          </td>
-          <td>Suxandonlar</td>
+          <td>Yozuv</td>
         </tr>
         <tr>
-          <td>
-            Lotincha so'zdan olingan bo'lib, radio va telivedinalarda nutq
-            so'zlaydigan shaxslarni kim deb atashadi?
-          </td>
-          <td>Diktorlar</td>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Turli tipdagi ma’lumot maydonlardan iborat tartibli tuzilmasi</td>
         </tr>
         <tr>
-          <td>Nutqning og'zaki ko'rinishi……….</td>
-          <td>Voizlik, Askiyachilik</td>
+          <td>Jadval</td>
         </tr>
         <tr>
-          <td>Qiroatxonlar kimlar?</td>
-          <td>Ta'sirchan, ifodali o'qiydigan shaxslar</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Hikoya, ertak, dostonlarni me'yoriga qo'yib o'qiydiganlarni kim
-            deyishadi?
+            Oddiy sozlangan ma’lumotlar turlari (atomlar)ga kuyidagilar kiradi:
           </td>
-          <td>Qissaxon</td>
         </tr>
         <tr>
-          <td>Adabiy til uchun qaysi hudud she'valari asos qilib olingan?</td>
-          <td>Toshkent va Farg'ona</td>
+          <td>mantiqiy, butun, xakikiy, belgili, ko’rsatkichli tur</td>
         </tr>
         <tr>
-          <td>
-            E.Begmatov umumiy va xususiy me'yorlarni necha turini qayt etgan?
-          </td>
-          <td>10ta</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            Harflar va ularning qo'llanish tamoyillarini qaysi me'yorda ko'rib
-            chiqiladi?
-          </td>
-          <td>Fonetik me'yor</td>
+          <td>Sozlangan tuzilmaviy MT (molekulalar) ga kuyidagilar kiradi:</td>
         </tr>
         <tr>
-          <td>
-            Urg'u va uning qo'llanilishini qaysi me'yorda ko'rib chiqamiz?
-          </td>
-          <td>Aksentologik me'yor</td>
+          <td>massiv, yozuv, rekursiv turlar, to’plam</td>
         </tr>
         <tr>
-          <td>
-            Uygaman, darsimni bajaryaman. Gapda qanday me'yor qoidasi buzilgan?
-          </td>
-          <td>Grammatik me'yor</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            O'zbek tilining asosiy imlo qoidalari qachon o'z kuchiga kirgan?
-          </td>
-          <td>1995-yil 24-avgustda</td>
+          <td>ENUM kalit so’zi yordamida qanday tuzilma yaratiladi</td>
         </tr>
         <tr>
-          <td>
-            So'z yasovchi qo'shimchalar fonetik tuzilishi jihatidan bir qolipda
-            ishlatilishiga…….. deyiladi.
-          </td>
-          <td>So'z yasalishi me'yori </td>
+          <td>Birlashma</td>
         </tr>
         <tr>
-          <td>Punktuatsion me'yor qoidalari nimani o'rganadi?</td>
-          <td>Tinish belgilarini</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Adabiy til uchun qaysi hudud she'valari asos qilib olingan?</td>
-          <td>Toshkent va Farg'ona</td>
+          <td>Xotirani dinamik ajratish uchun kalit so’zini ko’rsating</td>
         </tr>
         <tr>
-          <td>
-            Adabiy tilning uslubi , me'yori til birliklarining nutqda sharoitga
-            qarab eng ma'qulini qo'llashiga……….deyiladi
-          </td>
-          <td>Uslubiy me'yor</td>
+          <td>new</td>
         </tr>
         <tr>
-          <td>Alisher Navoiyning nutqqa oid asarlari</td>
-          <td>Muhokamatul lug'atayn</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Qaysi qatorda faqat sinonim leksemalar berilgan?</td>
-          <td>sabab, vaj, bahona, bois</td>
+          <td>Dinamik xotirani bo’shatish uchun kalit so’zini ko’rsating</td>
         </tr>
         <tr>
-          <td>Notiq nutqi qanday bo'lishi kerak?</td>
-          <td>Jozibali, aniq va tushunarli</td>
+          <td>Delete</td>
         </tr>
         <tr>
-          <td>«Mum tishlamoq» iborasini sharhlab bering.</td>
-          <td>Gapirmaslik </td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Til va nutqning farqi noto‘g‘ri izohlangan javobni belgilang.{" "}
+            int function(char x1, float x2, double x3)funksiya qiymatining
+            qaytarish turini ko’rsating
           </td>
-          <td>Til - voqelik, nutq - imkoniyat. </td>
         </tr>
         <tr>
-          <td>Qaysi gapda noto‘g‘ri yozilgan so‘z qo‘llangan? </td>
-          <td>Zulxumor bozordan kech qalib kelayapti</td>
+          <td>int</td>
         </tr>
         <tr>
-          <td>Notiqlik bu……</td>
-          <td>Nutqning og'zaki shakli</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Nutq madaniyati…………. </td>
-          <td>Adabiy til bilan bog'liq hodisa</td>
+          <td>
+            Turlarni keltirishda ma’lumotnng qisman yo’qotish bilan oshiriladi
+          </td>
         </tr>
         <tr>
-          <td>Qaysi qatordagi so‘zlar imloviy jihatdan to‘g‘ri yozilgan? </td>
-          <td>Toshkent, avtobus, tramvay</td>
+          <td>float to int</td>
         </tr>
         <tr>
-          <td>Naviyni o'qiyapman. Berilgan gapda qaysi ma'no ko'chishi bor?</td>
-          <td>metonimiya </td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            O'xshatish bosqa predmetni xususiyatlari bilan tushuntirish qanday
-            ma'no ko'chishi deyiladi?
+            Ma’lumotlar tuzilmalari bog’lanishiga ko’ra qo’yidagilarga
+            klassifikasiyalanadi
           </td>
-          <td>metafora</td>
         </tr>
         <tr>
-          <td>
-            Quyida berilgan she’riy parchadagi ajratib ko‘rsatilgan so‘zda ma’no
-            ko‘chishining qaysi turi mavjud? Tong otar chog‘ida juda sog‘inib,
-            Bedil o‘qir edim, chiqdi oftob. (G‘.G‘ulom){" "}
-          </td>
-          <td>metonimiya </td>
+          <td>Bog’lamli va bog’lamsiz</td>
         </tr>
         <tr>
-          <td>
-            Nutqning adabiy nutq me'yorlariga asoslanganligi nutqning qaysi
-            sifatiga to'g'ri keladi?
-          </td>
-          <td>Nutqning to'g'riligi</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            So'zning o'zi ifodalayotgan voqeylikka mutlaqo mos va muofiq
-            kelishiga nima deyiladi?{" "}
+            Ma’lumotlar tuzilmalari vaqt o’zgaruvchanligi yoki dastur
+            bajarilishi jarayoniga ko’ra qo’yidagilarga
           </td>
-          <td>Nutqning aniqligi</td>
         </tr>
         <tr>
-          <td>Qaysi gapda sinekdoxa usulida ma’no ko‘chgan? </td>
-          <td>Halima o‘tkir pichoq bilan qo‘lini kesib olibdi. </td>
+          <td>klassifikasiyalanadi</td>
         </tr>
         <tr>
-          <td>
-            Til birliklari va uning qurilishini o'zaro yaxshi tushunish zarurati
-            tufayli paydo bo'lgan, undan foydalanuvchi xalq tomonidan
-            foydalaniluvchi xalq tomonidan yaratilgan amaldagi qoidalar
-            yig'indisiga nima deyiladi?
-          </td>
-          <td>Nutq me'yori</td>
+          <td>Statik, yarimstatik va dinamik</td>
         </tr>
         <tr>
-          <td>
-            Tishini tishiga qo‘ymoq iborasiga sinonim bo‘lgan so‘zni toping.{" "}
-          </td>
-          <td>chidamoq</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Ko‘ngli joyiga tushdi iborasiga zid bo‘lgan lug‘aviy birlikni
-            toping.{" "}
+            Ma’lumotlar tuzilmalari tartibiga ko’ra qo’yidagilarga
+            klassifikasiyalanadi
           </td>
-          <td>yuragiga g‘ulg‘ula tushdi </td>
         </tr>
         <tr>
-          <td>
-            Nutq madaniyati ilmiy soha sifatida……. bilan chambarchas bog'liq.
-          </td>
-          <td>Mantiqshunoslik va ruhshunoslik </td>
+          <td>Chiziqli va chiziqsiz</td>
         </tr>
         <tr>
-          <td>
-            Tashqarida o‘tlab yurgan qo‘y-qo‘zilarni ko‘rib: "Qiziq, bu yerdagi
-            tuyoqlar soni nechta ekan-a?" − deb qoldi. Ushbu gapda ma’no
-            ko‘chish usulini aniqlang.{" "}
-          </td>
-          <td>sinekdoxa</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Qora niyat qilmang eso-omon borib kelay. Ma'no ko'chishining qaysi
-            turi ishlatilgan?
+            Ma’lumotlar tuzilmalari uchun xotira ajratish amali qanday nomlanadi
           </td>
-          <td>metafora</td>
-        </tr>
-        <tr>
-          <td>Tilimizda aynan qaysi tildan o'zlashgan so'zlar ko'proq</td>
-          <td>rus tilidan</td>
         </tr>
         <tr>
-          <td>Nutqni nimalar ta'sirchan qiladi?</td>
-          <td>Tasviriy vositalar va ko'chma ma'noli so'zlar</td>
+          <td>yaratish</td>
         </tr>
         <tr>
-          <td>Sinekdoxa so‘zi qaysi tildan olingan?</td>
-          <td>Yunoncha</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Nutqning necha xil uslubi mavjud?</td>
-          <td>5xil</td>
+          <td>
+            Ma’lumotlar tuzilmalari uchun ajratilgan xotirani o’chirish amali
+            qanday nomlanadi
+          </td>
         </tr>
         <tr>
-          <td>E'lonlar, qarorlar qaysi uslubga xos?</td>
-          <td>Rasmiy uslub</td>
+          <td>yo’qotish</td>
         </tr>
         <tr>
-          <td>Prezident qarorlari qaysi uslubda yoziladi?</td>
-          <td>Rasmiy uslubda</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Fikr aniq ashyoviy dalillarga asoslangan holda berilishi qanday
-            uslubda keladi?
+            Ma’lumotlar tuzilmalari qiymatini o’zgartirish amali qanday
+            nomlanadi
           </td>
-          <td>Ilmiy uslub</td>
         </tr>
         <tr>
-          <td>
-            O'zbek tili davlat tili deb 1989 -yil qabul qilingan. Berilgan
-            misolda qaysi uslub ketyapti?
-          </td>
-          <td>Ilmiy uslub</td>
+          <td>yangilash</td>
         </tr>
         <tr>
-          <td>
-            Davrning ijtimoiy-siyosiy, dolzarb masalalarini aks ettirib borish
-            qanday uslub deyiladi?
-          </td>
-          <td>Publisistik uslub</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            Darakchi, Sug'diyona, Mushtum keltirilgan na'munalar qaysi uslubga
-            xos?
-          </td>
-          <td>Publistikaga</td>
+          <td>Ma’lumotlar tuzilmalariga ruxsat olish amali qanday nomlanadi</td>
         </tr>
         <tr>
-          <td>
-            Obrazlilik va estetik ta'sir etishi bilan farqlanadigan uslubni
-            ko'rsating
-          </td>
-          <td>Badiiy uslub</td>
+          <td>tanlash (ruxsat)</td>
         </tr>
         <tr>
-          <td>
-            Inson faoliyatining barcha qirralarini o'zida aks ettiradigan uslub
-          </td>
-          <td>Badiiy uslub</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Badiiy adabiyotda qaysi uslubdan keng foydalaniladi? </td>
-          <td>Badiiy uslub</td>
+          <td>X=3.1415; xaqiqiy sonning mantissasi nimaga teng bo’ladi</td>
         </tr>
         <tr>
-          <td>Kumush choyshab yopib dalalar, Qor qo'ynida uxlab yotadi. </td>
-          <td>Badiiy uslub</td>
+          <td>31415</td>
         </tr>
         <tr>
-          <td>Oddiylik, soddalik qaysi uslubga xos?</td>
-          <td>So'zlashuv uslub</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Trop so'zi yunoncha tropos so'zdan olingan bo'lib</td>
-          <td>Ko'ch,a ma'noda qo'llaniladigan so'z yoki ibora</td>
+          <td>
+            Dastur bajarilish jarayonida xotira xajmi bir xil bo’lgan oddiy va
+            asosiy tuzilma to’plamlariga ... deyiladi.
+          </td>
         </tr>
         <tr>
-          <td>Kasb-hunarga oid so‘zlar qaysi qatorda qo‘llangan?</td>
-          <td>Tank, aslaha, shpatel, qaychi ip </td>
+          <td>Statik ma’lumotlar tuzilmasi</td>
         </tr>
         <tr>
-          <td>Quyidagi gaplardan qaysisida kasb-hunar so‘zlari qo‘llangan?</td>
-          <td>
-            Shonlar, har xil siniq qoliplar,charm rezgisi, shirach kosa va
-            hokazolar do‘konni tutgan.
-          </td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Cho‘rak, qarinja, gashir so‘zlari qaysi guruhga mansub?</td>
-          <td>Shevaga xos so‘zlar.</td>
+          <td>Ikkita satrni o’zaro taqqoslash funksiyasini ko’rsating</td>
         </tr>
         <tr>
-          <td>Samarqand, Qashqadaryo viloyatlar qaysi shevaga yaqin</td>
-          <td>Qipchoq</td>
+          <td>strcmp();</td>
         </tr>
         <tr>
-          <td>
-            Davlat idoaralarida faoliyat olib borayotgan vakillar qaysi tildan
-            foydalanishadi?
-          </td>
-          <td>Adabiy til</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Antonimlikni yuzaga keltiruvchi belgilar to‘g‘ri ko‘rsatilgan
-            qatorni aniqlang.
+            Birinchi satrning davomida ikkinchi satrni qo’shish funksiyasini
+            ko’rsating
           </td>
-          <td> Ma’nodagi zidlik</td>
         </tr>
         <tr>
-          <td>Alligoriya grekcha so'z bo'lib……..</td>
-          <td>kinoya, piching</td>
+          <td>strcat ();</td>
         </tr>
         <tr>
-          <td>Mol, bozor, savdo, pul. Bular qaysi sohaga oid terminlar</td>
-          <td>Iqtisodiyot</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Qaysi qatorda faqat sinonim so‘zlar berilgan?</td>
-          <td>Sabab, vaj, bahona, bois</td>
+          <td>Stek tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?</td>
         </tr>
         <tr>
-          <td>Alisher Navoiy nechinchi yillar yashab o'tgan?</td>
-          <td>!441-1501-yillar</td>
+          <td>LIFO</td>
         </tr>
         <tr>
-          <td>Chechan, checha, giddi, haligi. </td>
-          <td>Shevaga oid so'zlar</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>Eskirib qolgan so‘zlar qatorini ko‘rsating?</td>
-          <td>Paranji, charx, chig‘iriq.</td>
+          <td>Navbat tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?</td>
         </tr>
         <tr>
-          <td>Galing, shoti, hova qaysi viloyatga xos so'zlar</td>
-          <td>Xorazm(og'uz)</td>
+          <td>FIFO</td>
         </tr>
         <tr>
-          <td>
-            Inak, yumurta, suzma, ona . Adabiy tilga oid soz'ni belgilang.
-          </td>
-          <td>Ona</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            «Gul yuzung ochib, ey gul, majlisim guliston qil» gapida qanday
-            uslub qo'llangan?
-          </td>
-          <td>Badiiy uslub</td>
+          <td>Stekga yangi element qushish funksiyasi qanday belgilanadi</td>
         </tr>
         <tr>
-          <td>
-            Tilning boy va chiroyli shakllanishida nimalarga e'tibor berish
-            kerak?
-          </td>
-          <td>Ko'proq kitob mutolaa qilish</td>
+          <td>Push</td>
         </tr>
         <tr>
-          <td>
-            To'g'rilik, aniqlik, mantiqiylik, ifodaviylik, boylik, soflik kabi
-            sifatlar…
-          </td>
-          <td>Nutqning komunikativ sifatlari </td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            O'rta Osiyoga Nutq madaniyati va notiqlik san'atining kirib
-            kelishini aynan qaysi manbaaga bog'lanadi
+            Stekdan yuqori elementini o’chirish funksiyasi qanday belgilanadi
           </td>
-          <td>Qur'oni Karim bilan</td>
+        </tr>
+        <tr>
+          <td>Pop</td>
         </tr>
         <tr>
-          <td>Kasb-hunarga oid so‘zlar qatorini belgilang.</td>
-          <td>Nina, qaychi, andoza.</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Quyidagi qatorlarning qay birida salbiy bo‘yoqdor so‘zlar berilgan?
+            Stekdan yuqori elementini o’qitib olish funksiyasi qanday
+            belgilanadi
           </td>
-          <td>Naynov, qiltiriq, bashara.</td>
         </tr>
         <tr>
-          <td>Qaysi so‘zlar leksik ma`noga ega bo‘ladi?</td>
-          <td>Mustaqil so‘zlar</td>
+          <td>Top</td>
         </tr>
         <tr>
-          <td>Shevaga xos so‘zlar qaysi qatorda berilgan?</td>
-          <td>Momo, moyak, o‘jak.</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>
-            Narsa hodisalar o‘rtasidagi aloqadorlikka asoslangan ma`no
-            ko‘chirilishi bu-
-          </td>
-          <td>Metonimiya</td>
+          <td>Yarimstatik ma’lumotlar tuzilmasiga nimalar kiradi?</td>
+        </tr>
+        <tr>
+          <td>Stek, Dek, Navbat</td>
         </tr>
         <tr>
-          <td>Nutq madaniyati insonning odob-axloqiga bog'liq jarayon.</td>
-          <td>Ha, albatta</td>
+          <td>•</td>
         </tr>
         <tr>
-          <td>So‘zlarning ma’nolari qaysi lug‘atda izohlanadi?</td>
-          <td>Izohli lug‘atda.</td>
+          <td>Ro’yxatni massivdan ustunligini ko’rsating</td>
         </tr>
         <tr>
-          <td>Eskirgan so'zlar berilgan qatorni toping</td>
-          <td>Bo'zchi, omochchi, devonbegi</td>
+          <td>ro’yxatni uzunligiga chegara belgilanmaydi</td>
         </tr>
         <tr>
-          <td>"Qobusnoma" kimning asari?</td>
-          <td>Kaykovus</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            Hozirda muomalada yo'q, ishlatilmaydigan so'zlar qanday so'zlar
-            deyiladi?
+            Dastur bajarilish jarayonida xotira xajmi statik belgilanadi va
+            deskriptor-ko’rsatkich orqali foydalanilgan
           </td>
-          <td>Eskirgan</td>
         </tr>
         <tr>
-          <td>«Kovushini to‘g‘irlab qo‘ymoq» iborasining lug‘aviy ma`nosi?</td>
-          <td>haydab yubormoq</td>
+          <td>tuzilma to’plamlariga ... deyiladi.</td>
         </tr>
         <tr>
-          <td>Vulgarizmlar qanday ma’nodagi so‘zlar?</td>
-          <td>haqorat ma`nosidagi</td>
+          <td>Yarimstatik ma’lumotlar tuzilmasi</td>
         </tr>
         <tr>
-          <td>Quyidagi sinonimik qatordagi so‘zlarning qaysi biri eskirgan?</td>
-          <td>Gardun.</td>
+          <td>•</td>
         </tr>
         <tr>
           <td>
-            So'zlaganda o'ylab, shoshmasdan tuzishga, keraksiz yaramas so'zlarni
-            ishlatmaslikka chaqirgan mutafakkurimiz kim
+            Funksiyalarning qaysi biri kiritish oqimidan 100 belgini x satrga
+            o’qitadi?
           </td>
-          <td>Ahmad Yugnakiy</td>
         </tr>
         <tr>
-          <td>
-            Alisher Navoiyning tillar muhokamasiga bag'ishlab yozgan asari.
-          </td>
-          <td>Muhokamatul lug'atayn</td>
+          <td>cin.getline(x,100);</td>
         </tr>
         <tr></tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Stek bu ...</td>
+        </tr>
+        <tr>
+          <td>
+            chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va
+            chiqarish uning bir tomonidan amalga oshiriladi
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Navbat bu...</td>
+        </tr>
+        <tr>
+          <td>
+            shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi
+            va elementlarni faqatgina bir tomondan qabul qiladi
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Dek bu ...</td>
+        </tr>
+        <tr>
+          <td>
+            chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va
+            chiqarish uning ikki tomonlama amalga oshiriladi
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Qanday kalit so’zi yordamida nol havola (bo’sh manzil) belgilanadi
+          </td>
+        </tr>
+        <tr>
+          <td>NULL</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Bir bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi</td>
+        </tr>
+        <tr>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Ikki bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi</td>
+        </tr>
+        <tr>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Dastur bajarilish jarayonida xotira xajmi aniqlangan yoki ularning
+            soni ma’lum bo’lishi tuzilma
+          </td>
+        </tr>
+        <tr>
+          <td>to’plamlariga ... deyiladi.</td>
+        </tr>
+        <tr>
+          <td>Dinamik ma’lumotlar tuzilmasi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Xalqasimon ro’yxatdan element o’chirilganda …</td>
+        </tr>
+        <tr>
+          <td>ro’yxat bitta elementga qisqaradi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Halqasimon ikki yo’nalishli ro’yxatda qaysi yo’nalishlar bo’yicha
+            xarakatlanish mumkin?
+          </td>
+        </tr>
+        <tr>
+          <td>ikkala</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ro’yxat elementlarning ro’yxatlar bo’lishi mumkin tuzilma qanday
+            nomlanadi
+          </td>
+        </tr>
+        <tr>
+          <td>Lug’at</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            … - obyektni mazkur obyektga murojaat qilish orqali aniqlashdir.
+          </td>
+        </tr>
+        <tr>
+          <td>Rekursiya</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmasi, tashkil qiluvchi elementlari qaysining
+            o’xshash elementlar bo’lsa, u xoda ...
+          </td>
+        </tr>
+        <tr>
+          <td>deyiladi.</td>
+        </tr>
+        <tr>
+          <td>Rekursiv ma’lumotlar tuzilmasi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Rekursiv funksiyalar apparati kim tomondan kashf qilingan</td>
+        </tr>
+        <tr>
+          <td>A.Chyorch</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Rekursiya masalasini xal qiluvchi bosqichlari qanday nomlanadi
+          </td>
+        </tr>
+        <tr>
+          <td>Rekursiv triada</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Rekursiv triada qaysi bosqichlardan iborat</td>
+        </tr>
+        <tr>
+          <td>parametrizasiya, rekursiya bazasi va dekompozisiya</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Rekursiv triadaning qaysi bosqichida masala shartini tasniflash va
+            uni hal etish uchun parametrlar
+          </td>
+        </tr>
+        <tr>
+          <td>aniqlanadi.</td>
+        </tr>
+        <tr>
+          <td>parametrizasiya</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Rekursiv triadaning qaysi bosqichida masala yechimi aniq bo’lgan
+            trivial holat aniqlanadi, ya’ni bu holatda
+          </td>
+        </tr>
+        <tr>
+          <td>funksiyani o’ziga murojaat qilishi talab etilmaydi.</td>
+        </tr>
+        <tr>
+          <td>rekursiya bazasi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Rekursiv triadaning qaysi bosqichida umumiy holatni nisbatan ancha
+            oddiy bo’lgan o’zgargan parametrli
+          </td>
+        </tr>
+        <tr>
+          <td>qism masalalar orqali ifodalaydi.</td>
+        </tr>
+        <tr>
+          <td>dekompozisiya</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Daraxtsimon tuzilmadagi shunday elementga murojaat yo’qki, u...
+            tugun xisoblanadi.
+          </td>
+        </tr>
+        <tr>
+          <td>Ildiz</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Daraxtsimon tuzilmada boshqa elementlarga murojaat bo’lmasa, u...
+            tugun xisoblanadi.
+          </td>
+        </tr>
+        <tr>
+          <td>barg</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Qachon daraxt muvozanatlangan xisoblanadi?</td>
+        </tr>
+        <tr>
+          <td>
+            agar uning chap va o’ng qism daraxtlari balandligi farqi 1tadan ko’p
+            bo’lmasa
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Chiziqsiz ma’lumotlar tuzilmasiga nimalar kiradi?</td>
+        </tr>
+        <tr>
+          <td>Daraxt, graf</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Daraxt balandligi – bu ...</td>
+        </tr>
+        <tr>
+          <td>daraxt bosqichlari soni</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Daraxt darajasi – bu ...</td>
+        </tr>
+        <tr>
+          <td>
+            Daraxtga tegishli tugunning munosabatlar sonining maksimal qiymati
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Minimal balandlikka ega daraxt</td>
+        </tr>
+        <tr>
+          <td>HEAP TREE</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Daraxt qanday nomlanadi, agar uning chiqish darajasi ikkidan
+            oshmasa.
+          </td>
+        </tr>
+        <tr>
+          <td>Binar</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Qidiruv daraxtda nechta va qaysilar ko’ruv amallarini ifodalaydi
+          </td>
+        </tr>
+        <tr>
+          <td>Uchta (to’g’ri, teskari, simmetrik)</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Kompyuter xotirasida binar daraxtni qanday ko’rinishda tasvirlash
+            qulay
+          </td>
+        </tr>
+        <tr>
+          <td>bog’langan chiziqsiz ro’yxatlar</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Daraxt uzunligi – bu ...</td>
+        </tr>
+        <tr>
+          <td>tugunlar soni</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Chiziqsiz iyerarxik bog’langan ma’lumotlar tuzilmasi – bu …</td>
+        </tr>
+        <tr>
+          <td>Daraxt</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Daraxt tugunlar ketma-ketligini tartiblangan holda chiqarish</td>
+        </tr>
+        <tr>
+          <td>Ko’ruv amali</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar daraxtni tashkil etuvchi element (tugun)lardan faqat ikkita
+            tugun bilan bog’langan bo’lsa, u holda
+          </td>
+        </tr>
+        <tr>
+          <td>bunday binar daraxt ... deyiladi.</td>
+        </tr>
+        <tr>
+          <td>to’liq</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            56,34,60,23,40,65 sonlaridan xosil bo’lgan binar daraxt
+            muvozanatlanganmi yoki yo’qmi?
+          </td>
+        </tr>
+        <tr>
+          <td>xa</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar elementlar soni 100ta bo’lsa, u holda minimal balandga ega
+            daraxt balandligi nechiga teng bo’ladi?
+          </td>
+        </tr>
+        <tr>
+          <td>7</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar minimal balandga ega daraxt balandligi 10ga teng bo’lsa, u
+            holda maksimal elementlar soni nechiga
+          </td>
+        </tr>
+        <tr>
+          <td>teng bo’ladi</td>
+        </tr>
+        <tr>
+          <td>1023</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar elementlar soni 10ta bo’lsa, u holda minimal balandga ega
+            daraxt balandligi nechiga teng bo’ladi?
+          </td>
+        </tr>
+        <tr>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxtda
+            nechta oraliq tugun mavjud
+          </td>
+        </tr>
+        <tr>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxtda
+            nechta barg mavjud
+          </td>
+        </tr>
+        <tr>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxt
+            balandligi nechaga teng
+          </td>
+        </tr>
+        <tr>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxtda nechta
+            barg mavjud
+          </td>
+        </tr>
+        <tr>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxtda nechta
+            oraliq tugun mavjud
+          </td>
+        </tr>
+        <tr>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxt
+            balandligi nechaga teng
+          </td>
+        </tr>
+        <tr>
+          <td>3</td>
+        </tr>
+        <tr></tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Murrakab obyektlarning xussusiyati va munosabatlarini aks ettiruvchi
+            chiziqsiz ko’p bog’lamli dinamik
+          </td>
+        </tr>
+        <tr>
+          <td>tuzilmasi.</td>
+        </tr>
+        <tr>
+          <td>Graf</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar grafning munosabatlarini tasvirlashda qirralardan foydalanilsa,
+            u holda graf ... deyiladi.
+          </td>
+        </tr>
+        <tr>
+          <td>Yo’naltirilmagan</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar grafning munosabatlarini tasvirlashda yoylardan foydalanilsa, u
+            holda graf ... deyiladi.
+          </td>
+        </tr>
+        <tr>
+          <td>Yo’naltirilgan</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar grafning munosabatlarini tasvirlashda yoy va qirralardan
+            foydalanilsa, u holda graf ... deyiladi.
+          </td>
+        </tr>
+        <tr>
+          <td>Aralash</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar grafning munosabatlariga og’irlik qiymati belgilansa, u holda
+            graf ... deyiladi.
+          </td>
+        </tr>
+        <tr>
+          <td>Vaznga ega</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Grafning tartibi nimaga teng</td>
+        </tr>
+        <tr>
+          <td>Uchlar soniga</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Grafning o’lchami nimaga teng</td>
+        </tr>
+        <tr>
+          <td>Qirralar soniga</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Grafning tugun darajasi bu</td>
+        </tr>
+        <tr>
+          <td>undan chiquvchi qirralar soni xisoblanadi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Qaysi biri true kalit so’ziga mos qiymatini aniqlaydi?</td>
+        </tr>
+        <tr>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Qaysi biri false kalit so’ziga mos qiymatini aniqlaydi?</td>
+        </tr>
+        <tr>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Shartli operator if tanasi qachon bajariladi?</td>
+        </tr>
+        <tr>
+          <td>rost (true)</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Qaysi kalit so’z butun sonli o’zgaruvchi faqat musbat qiymatlarni
+            qabul qilishini ko’rsatadi?
+          </td>
+        </tr>
+        <tr>
+          <td>unsigned</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Massivning oxirgi elemenning tartib raqami nimaga teng bo’ladi, agar
+            massiv o’lchami 19 teng bo’lsa?
+          </td>
+        </tr>
+        <tr>
+          <td>18</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmasi ustida qanday to’rtta asosiy amal bajariladi
+          </td>
+        </tr>
+        <tr>
+          <td>yaratish, o’chirish, tanlash (ruxsat olish), yangilash.</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlarni kompyuter xotirasda akslantirish nechta bosqichdan
+            iborat?
+          </td>
+        </tr>
+        <tr>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Ma’lumotlar tuzilmasi mazmunli (matematik) bosqichda ...</td>
+        </tr>
+        <tr>
+          <td>
+            konkret obyektning qayta ishlash, ularning xussusiyatlari va
+            munosabatlarini tadqiq qilinadi.
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Ma’lumotlar tuzilmasi mantiqiy bosqichda ...</td>
+        </tr>
+        <tr>
+          <td>
+            berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq
+            qilinadi.
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Ma’lumotlar tuzilmasi fizik bosqichda ...</td>
+        </tr>
+        <tr>
+          <td>
+            kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Bir xil tipdagi o’zaro takrorlanmaydigan elementlardan iborat majmua
+          </td>
+        </tr>
+        <tr>
+          <td>To’plam</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Bir xil tipdagi elementlar majmuasi</td>
+        </tr>
+        <tr>
+          <td>Massiv</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Turli tipdagi ma’lumotlardan qanday tuzilma xosil qilinadi?</td>
+        </tr>
+        <tr>
+          <td>Yozuv</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Turli tipdagi ma’lumot maydonlardan iborat tartibli tuzilmasi</td>
+        </tr>
+        <tr>
+          <td>Jadval</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Oddiy sozlangan ma’lumotlar turlari (atomlar)ga kuyidagilar kiradi:
+          </td>
+        </tr>
+        <tr>
+          <td>mantiqiy, butun, xakikiy, belgili, ko’rsatkichli tur</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Sozlangan tuzilmaviy MT (molekulalar) ga kuyidagilar kiradi:</td>
+        </tr>
+        <tr>
+          <td>massiv, yozuv, rekursiv turlar, to’plam</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>ENUM kalit so’zi yordamida qanday tuzilma yaratiladi</td>
+        </tr>
+        <tr>
+          <td>Birlashma</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Xotirani dinamik ajratish uchun kalit so’zini ko’rsating</td>
+        </tr>
+        <tr>
+          <td>new</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Dinamik xotirani bo’shatish uchun kalit so’zini ko’rsating</td>
+        </tr>
+        <tr>
+          <td>delete</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            int function(char x1, float x2, double x3)funksiya qiymatining
+            qaytarish turini ko’rsating
+          </td>
+        </tr>
+        <tr>
+          <td>mas[6];</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Turlarni keltirishda ma’lumotnng qisman yo’qotish bilan oshiriladi
+          </td>
+        </tr>
+        <tr>
+          <td>int</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmalari bog’lanishiga ko’ra qo’yidagilarga
+            klassifikasiyalanadi
+          </td>
+        </tr>
+        <tr>
+          <td>Bog’lamli va bog’lamsiz</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmalari vaqt o’zgaruvchanligi yoki dastur
+            bajarilishi jarayoniga ko’ra qo’yidagilarga
+          </td>
+        </tr>
+        <tr>
+          <td>klassifikasiyalanadi</td>
+        </tr>
+        <tr>
+          <td>Statik, yarimstatik va dinamik</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmalari tartibiga ko’ra qo’yidagilarga
+            klassifikasiyalanadi
+          </td>
+        </tr>
+        <tr>
+          <td>Chiziqli va chiziqsiz</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmalari uchun xotira ajratish amali qanday nomlanadi
+          </td>
+        </tr>
+        <tr>
+          <td>yaratish</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmalari uchun ajratilgan xotirani o’chirish amali
+            qanday nomlanadi
+          </td>
+        </tr>
+        <tr>
+          <td>yo’qotish</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmalari qiymatini o’zgartirish amali qanday
+            nomlanadi
+          </td>
+        </tr>
+        <tr>
+          <td>yangilash</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Ma’lumotlar tuzilmalariga ruxsat olish amali qanday nomlanadi</td>
+        </tr>
+        <tr>
+          <td>tanlash (ruxsat)</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>X=3.1415; xaqiqiy sonning mantissasi nimaga teng bo’ladi</td>
+        </tr>
+        <tr>
+          <td>31415</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Dastur bajarilish jarayonida xotira xajmi bir xil bo’lgan oddiy va
+            asosiy tuzilma to’plamlariga ... deyiladi.
+          </td>
+        </tr>
+        <tr>
+          <td>Statik ma’lumotlar tuzilmasi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Ikkita satrni o’zaro taqqoslash funksiyasini ko’rsating</td>
+        </tr>
+        <tr>
+          <td>strcmp();</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Birinchi satrning davomida ikkinchi satrni qo’shish funksiyasini
+            ko’rsating
+          </td>
+        </tr>
+        <tr>
+          <td>strcat ();</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Stek tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?</td>
+        </tr>
+        <tr>
+          <td>LIFO</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Navbat tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?</td>
+        </tr>
+        <tr>
+          <td>FIFO</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Stekga yangi element qushish funksiyasi qanday belgilanadi</td>
+        </tr>
+        <tr>
+          <td>Push</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Stekdan yuqori elementini o’chirish funksiyasi qanday belgilanadi
+          </td>
+        </tr>
+        <tr>
+          <td>Pop</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Stekdan yuqori elementini o’qitib olish funksiyasi qanday
+            belgilanadi
+          </td>
+        </tr>
+        <tr>
+          <td>Top</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Yarimstatik ma’lumotlar tuzilmasiga nimalar kiradi?</td>
+        </tr>
+        <tr>
+          <td>Stek, Dek, Navbat</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Ro’yxatni massivdan ustunligini ko’rsating</td>
+        </tr>
+        <tr>
+          <td>ro’yxatni uzunligiga chegara belgilanmaydi</td>
+        </tr>
+        <tr></tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Dastur bajarilish jarayonida xotira xajmi statik belgilanadi va
+            deskriptor-ko’rsatkich orqali foydalanilgan
+          </td>
+        </tr>
+        <tr>
+          <td>tuzilma to’plamlariga ... deyiladi.</td>
+        </tr>
+        <tr>
+          <td>Yarimstatik ma’lumotlar tuzilmasi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Funksiyalarning qaysi biri kiritish oqimidan 100 belgini x satrga
+            o’qitadi?
+          </td>
+        </tr>
+        <tr>
+          <td>cin.getline(x,100);</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Stek bu ...</td>
+        </tr>
+        <tr>
+          <td>
+            chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va
+            chiqarish uning bir tomonidan amalga oshiriladi
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Navbat bu...</td>
+        </tr>
+        <tr>
+          <td>
+            shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi
+            va elementlarni faqatgina bir tomondan qabul qiladi
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Dek bu ...</td>
+        </tr>
+        <tr>
+          <td>
+            chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va
+            chiqarish uning ikki tomonlama amalga oshiriladi
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Qanday kalit so’zi yordamida nol havola (bo’sh manzil) belgilanadi
+          </td>
+        </tr>
+        <tr>
+          <td>NULL</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Bir bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi</td>
+        </tr>
+        <tr>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Ikki bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi</td>
+        </tr>
+        <tr>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Dastur bajarilish jarayonida xotira xajmi aniqlangan yoki ularning
+            soni ma’lum bo’lishi tuzilma
+          </td>
+        </tr>
+        <tr>
+          <td>to’plamlariga ... deyiladi.</td>
+        </tr>
+        <tr>
+          <td>Dinamik ma’lumotlar tuzilmasi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Xalqasimon ro’yxatdan element o’chirilganda …</td>
+        </tr>
+        <tr>
+          <td>ro’yxat bitta elementga qisqaradi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Halqasimon ikki yo’nalishli ro’yxatda qaysi yo’nalishlar bo’yicha
+            xarakatlanish mumkin?
+          </td>
+        </tr>
+        <tr>
+          <td>ikkala</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ro’yxat elementlarning ro’yxatlar bo’lishi mumkin tuzilma qanday
+            nomlanadi
+          </td>
+        </tr>
+        <tr>
+          <td>Lug’at</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            … - obyektni mazkur obyektga murojaat qilish orqali aniqlashdir.
+          </td>
+        </tr>
+        <tr>
+          <td>Rekursiya</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Ma’lumotlar tuzilmasi, tashkil qiluvchi elementlari qaysining
+            o’xshash elementlar bo’lsa, u xoda ...
+          </td>
+        </tr>
+        <tr>
+          <td>deyiladi.</td>
+        </tr>
+        <tr>
+          <td>Rekursiv ma’lumotlar tuzilmasi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Rekursiv funksiyalar apparati kim tomondan kashf qilingan</td>
+        </tr>
+        <tr>
+          <td>A.Chyorch</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Rekursiya masalasini xal qiluvchi bosqichlari qanday nomlanadi
+          </td>
+        </tr>
+        <tr>
+          <td>Rekursiv triada</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Rekursiv triada qaysi bosqichlardan iborat</td>
+        </tr>
+        <tr>
+          <td>parametrizasiya, rekursiya bazasi va dekompozisiya</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Rekursiv triadaning qaysi bosqichida masala shartini tasniflash va
+            uni hal etish uchun parametrlar
+          </td>
+        </tr>
+        <tr>
+          <td>aniqlanadi.</td>
+        </tr>
+        <tr>
+          <td>parametrizasiya</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Rekursiv triadaning qaysi bosqichida masala yechimi aniq bo’lgan
+            trivial holat aniqlanadi, ya’ni bu holatda
+          </td>
+        </tr>
+        <tr>
+          <td>funksiyani o’ziga murojaat qilishi talab etilmaydi.</td>
+        </tr>
+        <tr>
+          <td>rekursiya bazasi</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Rekursiv triadaning qaysi bosqichida umumiy holatni nisbatan ancha
+            oddiy bo’lgan o’zgargan parametrli
+          </td>
+        </tr>
+        <tr>
+          <td>qism masalalar orqali ifodalaydi.</td>
+        </tr>
+        <tr>
+          <td>dekompozisiya</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Daraxtsimon tuzilmadagi shunday elementga murojaat yo’qki, u...
+            tugun xisoblanadi.
+          </td>
+        </tr>
+        <tr>
+          <td>ildiz</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Daraxtsimon tuzilmada boshqa elementlarga murojaat bo’lmasa, u...
+            tugun xisoblanadi.
+          </td>
+        </tr>
+        <tr>
+          <td>barg</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Qachon daraxt muvozanatlangan xisoblanadi?</td>
+        </tr>
+        <tr>
+          <td>
+            agar uning chap va o’ng qism daraxtlari balandligi farqi 1tadan ko’p
+            bo’lmasa
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Chiziqsiz ma’lumotlar tuzilmasiga nimalar kiradi?</td>
+        </tr>
+        <tr>
+          <td>Daraxt, graf</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Daraxt balandligi – bu ...</td>
+        </tr>
+        <tr>
+          <td>daraxt bosqichlari soni</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Daraxt darajasi – bu ...</td>
+        </tr>
+        <tr>
+          <td>
+            Daraxtga tegishli tugunning munosabatlar sonining maksimal qiymati
+          </td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Minimal balandlikka ega daraxt</td>
+        </tr>
+        <tr>
+          <td>HEAP TREE</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Daraxt qanday nomlanadi, agar uning chiqish darajasi ikkidan
+            oshmasa.
+          </td>
+        </tr>
+        <tr>
+          <td>Binar</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Qidiruv daraxtda nechta va qaysilar ko’ruv amallarini ifodalaydi
+          </td>
+        </tr>
+        <tr>
+          <td>Uchta (to’g’ri, teskari, simmetrik)</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Kompyuter xotirasida binar daraxtni qanday ko’rinishda tasvirlash
+            qulay
+          </td>
+        </tr>
+        <tr>
+          <td>bog’langan chiziqsiz ro’yxatlar</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Daraxt uzunligi – bu ...</td>
+        </tr>
+        <tr>
+          <td>tugunlar soni</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Chiziqsiz iyerarxik bog’langan ma’lumotlar tuzilmasi – bu …</td>
+        </tr>
+        <tr>
+          <td>Daraxt</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>Daraxt tugunlar ketma-ketligini tartiblangan holda chiqarish</td>
+        </tr>
+        <tr>
+          <td>Ko’ruv amali</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar daraxtni tashkil etuvchi element (tugun)lardan faqat ikkita
+            tugun bilan bog’langan bo’lsa, u holda
+          </td>
+        </tr>
+        <tr>
+          <td>bunday binar daraxt ... deyiladi.</td>
+        </tr>
+        <tr>
+          <td>to’liq</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            56,34,60,23,40,65 sonlaridan xosil bo’lgan binar daraxt
+            muvozanatlanganmi yoki yo’qmi?
+          </td>
+        </tr>
+        <tr>
+          <td>xa</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar elementlar soni 100ta bo’lsa, u holda minimal balandga ega
+            daraxt balandligi nechiga teng bo’ladi?
+          </td>
+        </tr>
+        <tr>
+          <td>7</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar minimal balandga ega daraxt balandligi 10ga teng bo’lsa, u
+            holda maksimal elementlar soni nechiga
+          </td>
+        </tr>
+        <tr>
+          <td>teng bo’ladi</td>
+        </tr>
+        <tr>
+          <td>1023</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            Agar elementlar soni 10ta bo’lsa, u holda minimal balandga ega
+            daraxt balandligi nechiga teng bo’ladi?
+          </td>
+        </tr>
+        <tr>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>•</td>
+        </tr>
+        <tr>
+          <td>
+            10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxtda
+            nechta oraliq tugun mavjud
+          </td>
+        </tr>
+        <tr>
+          <td>4</td>
+        </tr>
         <tr></tr>
       </table>
     </div>
