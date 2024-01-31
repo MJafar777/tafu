@@ -1,0 +1,16 @@
+export { default as q } from "./Screenshot 2024-01-31 at 20.24.11.png";
+export { default as w } from "./Screenshot 2024-01-31 at 20.24.23.png";
+export { default as e } from "./Screenshot 2024-01-31 at 20.24.32.png";
+export { default as r } from "./Screenshot 2024-01-31 at 20.24.41.png";
+export { default as t } from "./Screenshot 2024-01-31 at 20.24.54.png";
+export { default as y } from "./Screenshot 2024-01-31 at 20.25.03.png";
+export { default as u } from "./Screenshot 2024-01-31 at 20.25.14.png";
+export { default as i } from "./Screenshot 2024-01-31 at 20.25.23.png";
+export { default as o } from "./Screenshot 2024-01-31 at 20.25.39.png";
+export { default as p } from "./Screenshot 2024-01-31 at 20.25.47.png";
+export { default as a } from "./Screenshot 2024-01-31 at 20.26.00.png";
+export { default as s } from "./Screenshot 2024-01-31 at 20.26.09.png";
+export { default as d } from "./Screenshot 2024-01-31 at 20.26.17.png";
+export { default as f } from "./Screenshot 2024-01-31 at 20.26.24.png";
+export { default as g } from "./Screenshot 2024-01-31 at 20.29.44.png";
+export { default as h } from "./Screenshot 2024-01-31 at 20.31.17.png";
