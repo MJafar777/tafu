@@ -145,1949 +145,1065 @@ const TestResponse = () => {
   return (
     <div style={{ fontFamily: "sans-serif" }}>
       <h1 style={{ textAlign: "center", fontFamily: "sans-serif" }}>
-        Tafu Uchun maxsuz. Informatika
+        Tafu Uchun maxsuz. fizikadan
       </h1>
       <table border="1">
         <tr>
-          <th>•</th>
+          <th>Test topshirig’i</th>
+          <th>To’g’ri javob</th>
         </tr>
         <tr>
-          <td>INT turi uchun qaysi amallar o’rinli</td>
+          <td>Elektr zanjirida tugun deb nimaga aytiladi?</td>
+          <td>Uch va unda ortiq tarmoqlar tutashgan nuqtaga</td>
         </tr>
         <tr>
-          <td>qo’shish, ayirish, butun sonli bo’lish, qoldiqli bo’lish</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>FLOAT turi uchun qaysi amallar o’rinli</td>
-        </tr>
-        <tr>
-          <td>qo’shish, ayrish, ko’paytirish, bo’lish</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>STRUCT kalit so’zi yordamida qanday tuzilma yaratiladi</td>
-        </tr>
-        <tr>
-          <td>Yozuv</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Algoritm nima?</td>
-        </tr>
-        <tr>
-          <td>amallar ketma-ketligi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
+          <td>Elektr zanjirida tarmoq deb nimaga aytiladi?</td>
           <td>
-            C++ tilida tuzilmani yaratish uchun ishlatiladigan kalit so’zi
+            Ikki va undan ortiq ketma-ket ulangan elektr zanjiridagi elementlar
+            ketma-ketligiga
           </td>
         </tr>
         <tr>
-          <td>struct</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ma’lumotlar tuzilmasi nima</td>
-        </tr>
-        <tr>
+          <td>Elektr zanjirida kontur deb nimaga aytiladi?</td>
           <td>
-            bu ma’lumot elementlari va ular orasidagi munosabatlar majmuasi
+            Bir nechta tarmoqlardan tashkil topgan yopiq tizimni tashkil etuvchi
+            elektr zanjirining bir qismiga
           </td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Elektr zanjiridagi elementlar nech turga bo’linadi?</td>
+          <td>2 (aktiv va passiv)</td>
         </tr>
         <tr>
-          <td>Qaysi biri true kalit so’ziga mos qiymatini aniqlaydi?</td>
+          <td>Elektr zanjirining aktiv elementlariga nimalar kiradi?</td>
+          <td>EYuK, generator va h</td>
         </tr>
         <tr>
-          <td>1</td>
+          <td>Elektr zanjirining passiv elementlariga nimalar kiradi?</td>
+          <td>Rezistor, kondensator, induktiv galtak</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Elektr zanjiridagi kontur nech turga bo’linadi?</td>
+          <td>2 (aktiv va passiv)</td>
         </tr>
         <tr>
-          <td>Qaysi biri false kalit so’ziga mos qiymatini aniqlaydi?</td>
-        </tr>
-        <tr>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Shartli operator if tanasi qachon bajariladi?</td>
-        </tr>
-        <tr>
-          <td>rost (true)</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
+          <td>Aktiv kontur deb nimaga aytiladi?</td>
           <td>
-            Qaysi kalit so’z butun sonli o’zgaruvchi faqat musbat qiymatlarni
-            qabul qilishini ko’rsatadi?
+            Elektr zanjiridagi kontur tarkibida bir va undan ortiq aktiv
+            element(lar)i mavjud bo’lgan konturga
           </td>
         </tr>
         <tr>
-          <td>unsigned</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
+          <td>Passiv kontur deb nimaga aytiladi?</td>
           <td>
-            Massivning oxirgi elemenning tartib raqami nimaga teng bo’ladi, agar
-            massiv o’lchami 19 teng bo’lsa?
+            Elektr zanjiridagi kontur tarkibida faqatgina passiv elementlardan
+            tashkil topgan konturga
           </td>
         </tr>
         <tr>
-          <td>18</td>
+          <td>Tok kuchini qanday qurilma bilan o’lchanadi?</td>
+          <td>Ampermetr</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Kuchlanishni qanday qurilma bilan o’lchanadi?</td>
+          <td>Voltmetr</td>
         </tr>
         <tr>
-          <td>
-            Ma’lumotlar tuzilmasi ustida qanday to’rtta asosiy amal bajariladi
-          </td>
+          <td>Quvvatni qanday qurilma bilan o’lchanadi?</td>
+          <td>Vattmetr</td>
         </tr>
         <tr>
-          <td>yaratish, o’chirish, tanlash (ruxsat olish), yangilash.</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Ma’lumotlarni kompyuter xotirasda akslantirish nechta bosqichdan
-            iborat?
-          </td>
-        </tr>
-        <tr>
-          <td>3 ta</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ma’lumotlar tuzilmasi mazmunli (matematik) bosqichda ...</td>
+          <td>Elektr qarshilikni qanday qurilma bilan o’lchanadi?</td>
+          <td>Ommetr</td>
         </tr>
         <tr>
           <td>
-            konkret obyektning qayta ishlash, ularning xussusiyatlari va
-            munosabatlarini tadqiq qilinadi.
+            Elektr zanjirida ampermetrning belgilanishi qaysi javobda to’g’ri
+            ko’rsatilgan?
           </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ma’lumotlar tuzilmasi mantiqiy bosqichda ...</td>
         </tr>
         <tr>
           <td>
-            berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq
-            qilinadi.
+            Elektr zanjirida voltmetrning belgilanishi qaysi javobda to’g’ri
+            ko’rsatilgan?
           </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ma’lumotlar tuzilmasi fizik bosqichda ...</td>
         </tr>
         <tr>
           <td>
-            kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.
+            Elektr zanjirida EYuKning belgilanishi qaysi javobda to’g’ri
+            ko’rsatilgan?
           </td>
-        </tr>
-        <tr>
-          <td>•</td>
         </tr>
         <tr>
           <td>
-            Bir xil tipdagi o’zaro takrorlanmaydigan elementlardan iborat majmua
+            Elektr zanjirida generatorning belgilanishi qaysi javobda to’g’ri
+            ko’rsatilgan?
           </td>
         </tr>
         <tr>
-          <td>To’plam</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Bir xil tipdagi elementlar majmuasi</td>
-        </tr>
-        <tr>
-          <td>Massiv</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Turli tipdagi ma’lumotlardan qanday tuzilma xosil qilinadi?</td>
-        </tr>
-        <tr>
-          <td>Yozuv</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Turli tipdagi ma’lumot maydonlardan iborat tartibli tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>Jadval</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Tok kuchining formulasi qaysi javobda to’g’ri ko’rsatilgan?</td>
         </tr>
         <tr>
           <td>
-            Oddiy sozlangan ma’lumotlar turlari (atomlar)ga kuyidagilar kiradi:
+            Elektr zanjiridagi rezistorning volt-amper xarakteristikasi (VAX)
+            ning formulasi qaysi javobda to’g’ri ko’rsatilgan?
           </td>
-        </tr>
-        <tr>
-          <td>mantiqiy, butun, xakikiy, belgili, ko’rsatkichli tur</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Sozlangan tuzilmaviy MT (molekulalar) ga kuyidagilar kiradi:</td>
-        </tr>
-        <tr>
-          <td>massiv, yozuv, rekursiv turlar, to’plam</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>ENUM kalit so’zi yordamida qanday tuzilma yaratiladi</td>
-        </tr>
-        <tr>
-          <td>Birlashma</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Xotirani dinamik ajratish uchun kalit so’zini ko’rsating</td>
-        </tr>
-        <tr>
-          <td>new</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Dinamik xotirani bo’shatish uchun kalit so’zini ko’rsating</td>
-        </tr>
-        <tr>
-          <td>Delete</td>
-        </tr>
-        <tr>
-          <td>•</td>
         </tr>
         <tr>
           <td>
-            int function(char x1, float x2, double x3)funksiya qiymatining
-            qaytarish turini ko’rsating
+            Elektr zanjirining bir qismi uchun Om qonunining ifodasi qaysi
+            javobda to’g’ri ko’rsatilgan?
           </td>
-        </tr>
-        <tr>
-          <td>int</td>
-        </tr>
-        <tr>
-          <td>•</td>
         </tr>
         <tr>
           <td>
-            Turlarni keltirishda ma’lumotnng qisman yo’qotish bilan oshiriladi
+            Berk (yopiq, to’liq) elektr zanjiri uchun Om qonunining ifodasi
+            qaysi javobda to’g’ri ko’rsatilgan?
           </td>
         </tr>
         <tr>
-          <td>float to int</td>
+          <td>Ampermetr tarmoqqa qanday ulanadi?</td>
+          <td>Ketma-ket</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Voltmetr tarmoqqa qanday ulanadi?</td>
+          <td>Parallel</td>
+        </tr>
+        <tr>
+          <td>Elektr zanjirida resistor qanday belgilanadi?</td>
+        </tr>
+        <tr>
+          <td>Elektr zanjirida kondensator qanday belgilanadi?</td>
+        </tr>
+        <tr>
+          <td>Elektr zanjirida induktiv g’altak qanday belgilanadi?</td>
+        </tr>
+        <tr>
+          <td>Elektr zanjirida tok manbai qanday belgilanadi?</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari bog’lanishiga ko’ra qo’yidagilarga
-            klassifikasiyalanadi
+            Quyida keltirilgan formulalardan qaysi biri elektr zanjiri uchun
+            Kirxgofning I-qonunini ifodalaydi?
           </td>
-        </tr>
-        <tr>
-          <td>Bog’lamli va bog’lamsiz</td>
-        </tr>
-        <tr>
-          <td>•</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari vaqt o’zgaruvchanligi yoki dastur
-            bajarilishi jarayoniga ko’ra qo’yidagilarga
+            Quyida keltirilgan formulalardan qaysi biri elektr zanjiri uchun
+            Kirxgofning II-qonunini ifodalaydi?
           </td>
         </tr>
         <tr>
-          <td>klassifikasiyalanadi</td>
+          <td>O’lchov birliklaridan qaysi biri induktivlikka tegishli?</td>
+          <td>Genri</td>
         </tr>
         <tr>
-          <td>Statik, yarimstatik va dinamik</td>
+          <td>O’lchov birliklaridan qaysi biri tok kuchiga tegishli?</td>
+          <td>Amper</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>O’lchov birliklaridan qaysi biri kuchlanishga tegishli?</td>
+          <td>Volt</td>
+        </tr>
+        <tr>
+          <td>O’lchov birliklaridan qaysi biri quvvatga tegishli?</td>
+          <td>Vatt</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari tartibiga ko’ra qo’yidagilarga
-            klassifikasiyalanadi
+            Keltirilgan elementlarning qaysi birida elektr zaryadlari
+            to’planishi mumkin?
           </td>
+          <td>Kondensator (C)</td>
         </tr>
         <tr>
-          <td>Chiziqli va chiziqsiz</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Diffuziya - bu……….</td>
+          <td>
+            kosentrasiyalar farqi tufayli zaryad tashuvchilarning harakati
+          </td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari uchun xotira ajratish amali qanday nomlanadi
+            Dielektrik – bu kristall qattiq jism, uning elektr o’tkazuvchanligi
           </td>
-        </tr>
-        <tr>
-          <td>yaratish</td>
-        </tr>
-        <tr>
-          <td>•</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari uchun ajratilgan xotirani o’chirish amali
-            qanday nomlanadi
+            absolyut nol temperaturada nolga teng va temperatura ortishi bilan
+            o’zgarmaydi
           </td>
         </tr>
         <tr>
-          <td>yo’qotish</td>
+          <td>Nurlanuvchi diod</td>
+          <td>elektr yoritgich asbob</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Nurlanuvchi diod nurining to’lqin uzunligi ...... bog’liq</td>
+          <td>diod tayyorlangan materialga</td>
+        </tr>
+        <tr>
+          <td>Nurlanuvchi diod ... ishlatiladi</td>
+        </tr>
+        <tr>
+          <td>elektr signallarni optik signallarga aylantirish uchun</td>
+        </tr>
+        <tr>
+          <td>Rekombinasiya – bu……...</td>
+          <td>erkin zaryad tashuvchilarning yo’qolish hodisasi</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari qiymatini o’zgartirish amali qanday
-            nomlanadi
+            Signallarni uzatishda zanjirlarni uzish uchun (tranzistor eng katta
+            qarshilikka ega) tranzistorning qaysi rejimi ishlatiladi?
           </td>
-        </tr>
-        <tr>
-          <td>yangilash</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ma’lumotlar tuzilmalariga ruxsat olish amali qanday nomlanadi</td>
-        </tr>
-        <tr>
-          <td>tanlash (ruxsat)</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>X=3.1415; xaqiqiy sonning mantissasi nimaga teng bo’ladi</td>
-        </tr>
-        <tr>
-          <td>31415</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>berk rejim</td>
         </tr>
         <tr>
           <td>
-            Dastur bajarilish jarayonida xotira xajmi bir xil bo’lgan oddiy va
-            asosiy tuzilma to’plamlariga ... deyiladi.
+            Signallarni uzatishda zanjirlarni ulash uchun (tranzistor eng kichik
+            qarshilikka ega) tranzistorning qaysi rejimi ishlatiladi?{" "}
           </td>
-        </tr>
-        <tr>
-          <td>Statik ma’lumotlar tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ikkita satrni o’zaro taqqoslash funksiyasini ko’rsating</td>
-        </tr>
-        <tr>
-          <td>strcmp();</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>to’yinish rejimi</td>
         </tr>
         <tr>
           <td>
-            Birinchi satrning davomida ikkinchi satrni qo’shish funksiyasini
-            ko’rsating
+            Signalni buzilmagan holda kuchaytirish uchun tranzistorning qaysi
+            rejimi ishlatiladi?
           </td>
+          <td>aktiv rejim</td>
         </tr>
         <tr>
-          <td>strcat ();</td>
+          <td>Stabilitronning ishchi rejimini belgilang (ko’rsating)</td>
+          <td>elektr teshilish rejimi</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Sxemalarda varikap ... ishlatiladi</td>
+          <td>elektr kondensator sifatida</td>
         </tr>
         <tr>
-          <td>Stek tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?</td>
+          <td>Sxemalarda stabistor ... ishlatiladi</td>
+          <td>kuchlanishni stabilizasiyalash uchun</td>
         </tr>
         <tr>
-          <td>LIFO</td>
+          <td>Sxemalarda yarimo’tkazgichli diod ... ishlatiladi</td>
+          <td>o’zgaruvchan tokni o’zgarmasga aylantirish uchun</td>
         </tr>
         <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Navbat tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?</td>
-        </tr>
-        <tr>
-          <td>FIFO</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Stekga yangi element qushish funksiyasi qanday belgilanadi</td>
-        </tr>
-        <tr>
-          <td>Push</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Sxemalarda bipolyar tranzistor ... ishlatiladi</td>
+          <td>signallarni quvvatini kuchaytirish uchun</td>
         </tr>
         <tr>
           <td>
-            Stekdan yuqori elementini o’chirish funksiyasi qanday belgilanadi
+            Sxemalarda zatvori p-n o’tish bilan boshqariladigan tranzistor ...
+            ishlatiladi
           </td>
+          <td>kuchlanish kuchaytirgichi sifatida</td>
         </tr>
         <tr>
-          <td>Pop</td>
+          <td>Termorezistor</td>
+          <td>termoelektrik asbob</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>..... termorezistor toki qiymati o’zgaradi</td>
+          <td>atrof muhit temperaturasi o’zgarishi bilan</td>
+        </tr>
+        <tr>
+          <td>Teskari ulangan fotodiod toki</td>
+          <td>yoritilganlik ortishi bilan ortadi</td>
+        </tr>
+        <tr>
+          <td>Tetrodli tiristor ...</td>
+          <td>uchta p-n o’tish va to’rtta elektrodga ega</td>
+        </tr>
+        <tr>
+          <td>Tiristor ...</td>
+          <td>uchta p-n o’tish va uchta elektrodga ega</td>
+        </tr>
+        <tr>
+          <td>To’g’irlovchi diod</td>
+          <td>elektr o’zgartiruvchi asbob</td>
+        </tr>
+        <tr>
+          <td>To’g’irlovchi diodning ishchi rejimini belgilang (ko’rsating)</td>
+          <td>to’g’ri va teskari siljitishlarning davriy almashishi</td>
+        </tr>
+        <tr>
+          <td>Fotodiod</td>
+          <td>fotoelektrik asbob</td>
+        </tr>
+        <tr>
+          <td>Fotodiod ... ishlatiladi</td>
+          <td>optik signallarni elektr signallarga aylantirish uchun</td>
+        </tr>
+        <tr>
+          <td>Fotodiod .... o’zgartiradi</td>
+          <td>optik signalni elektr signalga</td>
+        </tr>
+        <tr>
+          <td>Fotorezistor </td>
+          <td>fotoelektrik asbob</td>
+        </tr>
+        <tr>
+          <td>...... fotorezistor fototoki qiymati o’zgaradi</td>
+          <td>yoritilganlik o’zgarishi bilan</td>
+        </tr>
+        <tr>
+          <td>Fototranzistor ... ishlatiladi</td>
+          <td>optik signallarni elektr signallarga aylantirish uchun</td>
+        </tr>
+        <tr>
+          <td>Emitter zaryad tashuvchilarini ... xizmat qiladi</td>
+          <td>injeksiyalash uchun</td>
         </tr>
         <tr>
           <td>
-            Stekdan yuqori elementini o’qitib olish funksiyasi qanday
-            belgilanadi
+            Yarimo’tkazgichli diod volt-amper xarakteristikasini belgilang
           </td>
         </tr>
         <tr>
-          <td>Top</td>
+          <td>Yarimo’tkazgichli diod …….. ishlatiladi</td>
+          <td>elektr signallarni elektr signallarga aylantirish uchun</td>
         </tr>
         <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Yarimstatik ma’lumotlar tuzilmasiga nimalar kiradi?</td>
-        </tr>
-        <tr>
-          <td>Stek, Dek, Navbat</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ro’yxatni massivdan ustunligini ko’rsating</td>
-        </tr>
-        <tr>
-          <td>ro’yxatni uzunligiga chegara belgilanmaydi</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Yarimo’tkazgichli diod ...</td>
+          <td>bitta p-n o’tish va ikkita elektrodga ega</td>
         </tr>
         <tr>
           <td>
-            Dastur bajarilish jarayonida xotira xajmi statik belgilanadi va
-            deskriptor-ko’rsatkich orqali foydalanilgan
+            O’tkazgich – bu kristall qattiq jism, uning elektr o’tkazuvchanligi
           </td>
-        </tr>
-        <tr>
-          <td>tuzilma to’plamlariga ... deyiladi.</td>
-        </tr>
-        <tr>
-          <td>Yarimstatik ma’lumotlar tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>
+            absolyut nol temperaturada maksimal qiymatga ega va temperatura
+            ortishi bilan kamayadi
+          </td>
         </tr>
         <tr>
           <td>
-            Funksiyalarning qaysi biri kiritish oqimidan 100 belgini x satrga
-            o’qitadi?
+            O’zgaruvchan elektr kondensator sifatida qo’llaniladigan diod turi
           </td>
-        </tr>
-        <tr>
-          <td>cin.getline(x,100);</td>
-        </tr>
-        <tr></tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Stek bu ...</td>
+          <td>varikap</td>
         </tr>
         <tr>
           <td>
-            chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va
-            chiqarish uning bir tomonidan amalga oshiriladi
+            Qaysi tranzistorda kanali boyitilgan va kambag’allashgan rejim
+            amalga oshadi
+          </td>
+          <td>kanali qurilgan MDYa maydoniy tranzistor</td>
+        </tr>
+        <tr>
+          <td>Qaysi tranzistorda kanali boyitilgan rejim amalga oshadi</td>
+          <td>kanali induksiyalangan MDYa maydoniy tranzistor</td>
+        </tr>
+        <tr>
+          <td>Tok kuchi qanday belgilanadi?</td>
+          <td>I</td>
+        </tr>
+        <tr>
+          <td>Kuchlanish qanday belgilanadi?</td>
+          <td>U</td>
+        </tr>
+        <tr>
+          <td>Quvvat qanday belgilanadi?</td>
+          <td>P</td>
+        </tr>
+        <tr>
+          <td>Elektr qarshilik (resistor) qanday belgilanadi?</td>
+          <td>R</td>
+        </tr>
+        <tr>
+          <td>Induktiv g’altak qanday belgilanadi?</td>
+          <td>L</td>
+        </tr>
+        <tr>
+          <td>Elektr sig’imi (kondensator) qanday belgilanadi?</td>
+          <td>C</td>
+        </tr>
+        <tr>
+          <td>Qanday bipolyar tranzistor eng tezkor ishlaydi</td>
+          <td>
+            baza kengligi kichik, unda n- turli kiritmalar notekis taqsimlangan
           </td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>p-n o’tish bilan boshqariladigan maydoniy tranzistor ...</td>
+          <td>bitta p-n o’tish va uchta elektrodga ega</td>
         </tr>
         <tr>
-          <td>Navbat bu...</td>
+          <td>p-n o’tish to’g’ri siljitilganda tashqi kuchlanishning ...</td>
+          <td>manfiy uchi n-sohaga ulanadi, natijaviy maydon kamayadi</td>
+        </tr>
+        <tr>
+          <td>p-n o’tish teskari siljitilganda tashqi kuchlanishning ...</td>
+          <td>musbat uchi n-sohaga ulanadi, natijaviy maydon ortadi</td>
+        </tr>
+        <tr>
+          <td>p-n o’tish to’g’ri ulanganda ...</td>
+          <td>uning kengligi kamayadi, baryer sig’imi esa ortadi</td>
+        </tr>
+        <tr>
+          <td>p-n o’tish teskari ulanganda ...</td>
+          <td>uning kengligi ortadi, baryer sig’imi esa kamayadi</td>
+        </tr>
+        <tr>
+          <td>p-n o’tish baryer sig’imi ... aniqlanadi</td>
+          <td>uning kengligi bilan</td>
+        </tr>
+        <tr>
+          <td>p-n o’tish kengligi nimalarga bog’liq?</td>
+          <td>teskari ulangan kuchlanishga bog’liq</td>
+        </tr>
+        <tr>
+          <td>p-turdagi yarimo’tkazgich - bu</td>
+          <td>akseptor kirishmali yarimo’tkazgich</td>
+        </tr>
+        <tr>
+          <td>n- turdagi yarimo’tkazgich - bu</td>
+          <td>donor kirishmali yarimo’tkazgich</td>
         </tr>
         <tr>
           <td>
-            shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi
-            va elementlarni faqatgina bir tomondan qabul qiladi
+            n- yarimo’tkazichlar uchun qaysi zaryad tashuvchilar asosiy
+            hisoblanadi?
           </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Dek bu ...</td>
+          <td>elektronlar</td>
         </tr>
         <tr>
           <td>
-            chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va
-            chiqarish uning ikki tomonlama amalga oshiriladi
+            n- yarimo’tkazgichda qaysi zaryad tashuvchilar tok hosil qiladi?
           </td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>elektronlar</td>
         </tr>
         <tr>
           <td>
-            Qanday kalit so’zi yordamida nol havola (bo’sh manzil) belgilanadi
+            n-p-n turli bipolyar tranzistorning chegaraviy chastotasi nima bilan
+            aniqlanadi?
           </td>
-        </tr>
-        <tr>
-          <td>NULL</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Bir bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi</td>
-        </tr>
-        <tr>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ikki bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi</td>
-        </tr>
-        <tr>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>elektronlarning bazadan uchib o’tish vaqti</td>
         </tr>
         <tr>
           <td>
-            Dastur bajarilish jarayonida xotira xajmi aniqlangan yoki ularning
-            soni ma’lum bo’lishi tuzilma
+            Xususiy yarim o’tkazgichlarda Fermi energetik sathi qayerda
+            joylashgan?
           </td>
-        </tr>
-        <tr>
-          <td>to’plamlariga ... deyiladi.</td>
-        </tr>
-        <tr>
-          <td>Dinamik ma’lumotlar tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Xalqasimon ro’yxatdan element o’chirilganda …</td>
-        </tr>
-        <tr>
-          <td>ro’yxat bitta elementga qisqaradi</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Taqiqlangan zona o’rtasida</td>
         </tr>
         <tr>
           <td>
-            Halqasimon ikki yo’nalishli ro’yxatda qaysi yo’nalishlar bo’yicha
-            xarakatlanish mumkin?
+            n-tur yarim o’tkazgichda Fermi energetik sathi qayerda joylashgan?
+          </td>
+          <td>Donor sathi va valent zonasi tepasining o’rtasida</td>
+        </tr>
+        <tr>
+          <td>Kovak nima?</td>
+          <td>Elektron bo’lmagan o’rni va musbat zaryadlangan kvazizarracha</td>
+        </tr>
+        <tr>
+          <td>p-n o’tishda injeksiya …..</td>
+          <td>
+            p-n o’tishda potensial to’siq balandligi pasaytirish hisobiga zaryad
+            tashuvchilarning asosiy hisoblangan sohaga o’tkazish
           </td>
         </tr>
         <tr>
-          <td>ikkala</td>
+          <td>p-n o’tishda teshilish mexanizmining turlari?</td>
+          <td>Ko’chki, issiqlik va tunnel</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Tranzistorlarni ulash sxermalari?</td>
+          <td>Umumiy baza, umumiy kollektor, umumiy emitter</td>
         </tr>
         <tr>
           <td>
-            Ro’yxat elementlarning ro’yxatlar bo’lishi mumkin tuzilma qanday
-            nomlanadi
+            Umumiy baza asosida ulangan ikki qutbli tranzistorga qanday
+            kuchlanish berilganda aktiv rejimda ishlatiladi
           </td>
-        </tr>
-        <tr>
-          <td>Lug’at</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Emmiterli o’tishga to’g’ri, kollektorli o’tishga teskari</td>
         </tr>
         <tr>
           <td>
-            … - obyektni mazkur obyektga murojaat qilish orqali aniqlashdir.
+            Analog signallarga ishlov berganda bipolyar tranzistor qaysi rejimda
+            ishlaydi?
+          </td>
+          <td>aktiv</td>
+        </tr>
+        <tr>
+          <td>Baza zaryad tashuvchilarni ... xizmat qiladi</td>
+          <td>uzatish uchun</td>
+        </tr>
+        <tr>
+          <td>Bipolyar transistor</td>
+          <td>elektr o’zgartiruvchi asbob</td>
+        </tr>
+        <tr>
+          <td>Bipolyar tranzistor...</td>
+          <td>ikkita p-n o’tish va uchta elektrodga ega</td>
+        </tr>
+        <tr>
+          <td>Bipolyar tranzistor... ishlatiladi</td>
+          <td>elektr signallarni elektr signallarga aylantirish uchun</td>
+        </tr>
+        <tr>
+          <td>....... bipolyar tranzistorning aktiv rejimi amalga oshadi</td>
+          <td>
+            emitter o’tish to’g’ri, kollektor o’tish esa teskari siljitilganda
           </td>
         </tr>
         <tr>
-          <td>Rekursiya</td>
+          <td>...... bipolyar tranzistorning berk rejimi amalga oshadi</td>
+          <td>ikkala o’tish teskari yo’nalishda siljitilganda</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>...... bipolyar tranzistorning invers rejimi amalga oshadi</td>
+          <td>
+            emitter o’tish teskari, kollektor o’tish to’g’ri siljitilganda
+          </td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmasi, tashkil qiluvchi elementlari qaysining
-            o’xshash elementlar bo’lsa, u xoda ...
+            Bipolyar tranzistorning qaysi ish rejimida p-n o’tishlar toklarining
+            bir-biriga tasiri yo’q?
           </td>
-        </tr>
-        <tr>
-          <td>deyiladi.</td>
-        </tr>
-        <tr>
-          <td>Rekursiv ma’lumotlar tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Rekursiv funksiyalar apparati kim tomondan kashf qilingan</td>
-        </tr>
-        <tr>
-          <td>A.Chyorch</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>berk berk</td>
         </tr>
         <tr>
           <td>
-            Rekursiya masalasini xal qiluvchi bosqichlari qanday nomlanadi
+            Bipolyar tranzistorning qaysi ish rejimida kollektor toki emitter
+            toki bilan boshqariladi?
           </td>
-        </tr>
-        <tr>
-          <td>Rekursiv triada</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Rekursiv triada qaysi bosqichlardan iborat</td>
-        </tr>
-        <tr>
-          <td>parametrizasiya, rekursiya bazasi va dekompozisiya</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>aktiv</td>
         </tr>
         <tr>
           <td>
-            Rekursiv triadaning qaysi bosqichida masala shartini tasniflash va
-            uni hal etish uchun parametrlar
+            Bipolyar tranzistorning qaysi ish rejimida kollektor toki emitter
+            tokiga sust bog’liq?
           </td>
-        </tr>
-        <tr>
-          <td>aniqlanadi.</td>
-        </tr>
-        <tr>
-          <td>parametrizasiya</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>to’yinish</td>
         </tr>
         <tr>
           <td>
-            Rekursiv triadaning qaysi bosqichida masala yechimi aniq bo’lgan
-            trivial holat aniqlanadi, ya’ni bu holatda
+            Bipolyar tranzistorning qaysi sohasida kiritmalar konsentrasiyasi
+            eng katta bo’ladi?
           </td>
-        </tr>
-        <tr>
-          <td>funksiyani o’ziga murojaat qilishi talab etilmaydi.</td>
-        </tr>
-        <tr>
-          <td>rekursiya bazasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>emitter</td>
         </tr>
         <tr>
           <td>
-            Rekursiv triadaning qaysi bosqichida umumiy holatni nisbatan ancha
-            oddiy bo’lgan o’zgargan parametrli
+            Bipolyar tranzistorning qaysi sohasida kiritmalar konsentrasiyasi
+            eng kichik bo’ladi?
           </td>
+          <td>baza</td>
         </tr>
         <tr>
-          <td>qism masalalar orqali ifodalaydi.</td>
+          <td>Varikapning ishchi rejimi qachon amalga oshadi?</td>
+          <td>teshilish rejimiga o’tmagan teskari siljitish</td>
         </tr>
         <tr>
-          <td>dekompozisiya</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Diodli tiristor...</td>
+          <td>uchta p-n o’tish va ikkita elektrodga ega</td>
         </tr>
         <tr>
           <td>
-            Daraxtsimon tuzilmadagi shunday elementga murojaat yo’qki, u...
-            tugun xisoblanadi.
+            Invers rejimda bipolyar tranzistorning emitteri ...... xizmat qiladi
+          </td>
+          <td>bazadan noasosiy zaryad tashuvchilarni ekstraksiyalash uchun</td>
+        </tr>
+        <tr>
+          <td>Injeksiya - bu………..</td>
+          <td>
+            n-p o’tish to’g’ri ulanganda elektronlar oqimi n sohadan p sohaga
+            harakatlanadi, kovaklar esa teskari yo’nalishda harakatlanadi
           </td>
         </tr>
         <tr>
-          <td>Ildiz</td>
+          <td>Kompensasiyalangan yarimo’tkazgich - bu</td>
+          <td>
+            donor kirishmalar konsentrasiyasi akseptor kirishmalar
+            konsentrasiyasigi teng yarimo’tkazich
+          </td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Kuchlanishni barqarorlashtirishda qo’llaniladigan diod turi?</td>
+          <td>stabilitron</td>
         </tr>
         <tr>
           <td>
-            Daraxtsimon tuzilmada boshqa elementlarga murojaat bo’lmasa, u...
-            tugun xisoblanadi.
+            Maydoniy tranzistorning qaysi turida stok toki faqat kanal sohasi
+            kengligining o’zgarishi hisobiga amalga oshadi?{" "}
+          </td>
+          <td>zatvori p-n o’tish bilan boshqariladigan maydoniy tranzistor</td>
+        </tr>
+        <tr>
+          <td>Yarim o’tkazgichli stabilitronning ishlatilishi</td>
+          <td>Kuchlanishni doimiy saqlab turishda</td>
+        </tr>
+        <tr>
+          <td>Varikap nima ?</td>
+          <td>Teskari ulangan sigimi maydon kuchlanganligiga bog’liq asbob</td>
+        </tr>
+        <tr>
+          <td>Maydonli tranzistorining ishlash jarayoni nimaga asoslangan</td>
+          <td>
+            Yarim o’tkazgichning elektr qarshiligi, shu materialga ko’ndalang
+            qo’yilgan maydon bilan boshqarilib, elektr toki tashishda bir
+            xildagi zaryad tashuvchilar ishtirokiga
           </td>
         </tr>
         <tr>
-          <td>barg</td>
+          <td>Shottki diodi ………… dan iborat</td>
+          <td>Metall – yarim o’tkazgich</td>
         </tr>
         <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Qachon daraxt muvozanatlangan xisoblanadi?</td>
+          <td>Shottki diodning asosiy afzalliklari quyidagilardan iborat:</td>
+          <td>Ochilish kuchlanishi past, tezkor</td>
         </tr>
         <tr>
           <td>
-            agar uning chap va o’ng qism daraxtlari balandligi farqi 1tadan ko’p
-            bo’lmasa
+            Eng ko’p ishlatiladigan yarim o’tkazgichli materyallarlarga nimalar
+            kiradi.
           </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Chiziqsiz ma’lumotlar tuzilmasiga nimalar kiradi?</td>
-        </tr>
-        <tr>
-          <td>Daraxt, graf</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Daraxt balandligi – bu ...</td>
-        </tr>
-        <tr>
-          <td>daraxt bosqichlari soni</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Daraxt darajasi – bu ...</td>
+          <td>Kremniy va germaniy</td>
         </tr>
         <tr>
           <td>
-            Daraxtga tegishli tugunning munosabatlar sonining maksimal qiymati
+            Yarim o’tkazgichli materiallarda asosiy zaryad tashuvchilarni
+            ko’rsating?
           </td>
+          <td>Elektronlar, kovaklar</td>
         </tr>
         <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Minimal balandlikka ega daraxt</td>
-        </tr>
-        <tr>
-          <td>HEAP TREE</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Integral mikrosxemaning turlari.</td>
+          <td>Gibrid va yarimo’tkazgich</td>
         </tr>
         <tr>
           <td>
-            Daraxt qanday nomlanadi, agar uning chiqish darajasi ikkidan
-            oshmasa.
+            Yarim o’tkazgichnining temperaturasi ko’tarilganda uning qarshiligi
+            qanday o’zgaradi?
           </td>
-        </tr>
-        <tr>
-          <td>Binar</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>kamayadi</td>
         </tr>
         <tr>
           <td>
-            Qidiruv daraxtda nechta va qaysilar ko’ruv amallarini ifodalaydi
+            Tunnel diodida p-n o’tishning qanday yarim o’tkazgichlardan yasalgan
+            bo’ladi
           </td>
+          <td>aynigan yarim o’tkazgichlardan</td>
         </tr>
         <tr>
-          <td>Uchta (to’g’ri, teskari, simmetrik)</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Kompyuter xotirasida binar daraxtni qanday ko’rinishda tasvirlash
-            qulay
-          </td>
-        </tr>
-        <tr>
-          <td>bog’langan chiziqsiz ro’yxatlar</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Daraxt uzunligi – bu ...</td>
-        </tr>
-        <tr>
-          <td>tugunlar soni</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Chiziqsiz iyerarxik bog’langan ma’lumotlar tuzilmasi – bu …</td>
-        </tr>
-        <tr>
-          <td>Daraxt</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Daraxt tugunlar ketma-ketligini tartiblangan holda chiqarish</td>
-        </tr>
-        <tr>
-          <td>Ko’ruv amali</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Agar daraxtni tashkil etuvchi element (tugun)lardan faqat ikkita
-            tugun bilan bog’langan bo’lsa, u holda
-          </td>
-        </tr>
-        <tr>
-          <td>bunday binar daraxt ... deyiladi.</td>
-        </tr>
-        <tr>
-          <td>to’liq</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            56,34,60,23,40,65 sonlaridan xosil bo’lgan binar daraxt
-            muvozanatlanganmi yoki yo’qmi?
-          </td>
-        </tr>
-        <tr>
-          <td>xa</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Agar elementlar soni 100ta bo’lsa, u holda minimal balandga ega
-            daraxt balandligi nechiga teng bo’ladi?
-          </td>
-        </tr>
-        <tr>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Agar minimal balandga ega daraxt balandligi 10ga teng bo’lsa, u
-            holda maksimal elementlar soni nechiga
-          </td>
-        </tr>
-        <tr>
-          <td>teng bo’ladi</td>
-        </tr>
-        <tr>
-          <td>1023</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Agar elementlar soni 10ta bo’lsa, u holda minimal balandga ega
-            daraxt balandligi nechiga teng bo’ladi?
-          </td>
-        </tr>
-        <tr>
+          <td>Tranzistor nechta rejimda ishlaydi?</td>
           <td>4</td>
         </tr>
         <tr>
-          <td>•</td>
-        </tr>
-        <tr>
+          <td>Tranzistorning ishlash jarayoni qanday omillarga asoslangan</td>
           <td>
-            10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxtda
-            nechta oraliq tugun mavjud
+            zaryad tashuvchilar injeksiyasi, diffuziyasi va rekombinasiyasiga
           </td>
         </tr>
         <tr>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>
+            Agar tranzistorning emitterga to’g’ri yo’nalishda kollektorga
+            teskari yo’nalishda kuchlanish qo’yilsa, u qanday rejimda ishlaydi
+          </td>
+          <td>aktiv</td>
         </tr>
         <tr>
           <td>
-            10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxtda
-            nechta barg mavjud
+            Maydonli tranzistorlarning qarshiligi qanday elektr maydoni bilan
+            boshqariladi?
           </td>
+          <td>ko’ndalang</td>
         </tr>
         <tr>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Qanday maydonli tranzistor mavjud?</td>
+          <td>
+            boshqariladigan p-n – o’tishli va metall – dielektrik – yarim
+            o’tkazgich
+          </td>
         </tr>
         <tr>
           <td>
-            10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxt
-            balandligi nechaga teng
+            Uchta va undan ortiq p-n o`tishlarga hamda ikkita ulash uchiga ega
+            bo`lgan elektron sxemalarida elektr tokini katta ulashda elekron
+            kalit vazifasini bajaradigan yarim o`tkazgichli asbobga ......
+            deyiladi.
           </td>
-        </tr>
-        <tr>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Tiristor</td>
         </tr>
         <tr>
           <td>
-            35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxtda nechta
-            barg mavjud
+            Yarim o’tkazgich elektr qarshiligining elektromagnit nurlar
+            ta’sirida o’zgarish hodisasi ...... deb ataladi.
           </td>
-        </tr>
-        <tr>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>fotoo’tkazuvchanlik</td>
         </tr>
         <tr>
           <td>
-            35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxtda nechta
-            oraliq tugun mavjud
+            Yorug’lik diodi nurlanadigan p-n – o’tishdan iborat bo’lib, bunda
+            nimaning hisobiga nurlanish chiqariladi.
           </td>
-        </tr>
-        <tr>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>zaryad tashuvchilar rekombinatsiyasi</td>
         </tr>
         <tr>
           <td>
-            35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxt
-            balandligi nechaga teng
+            p-n – o’tish asosida yaratilgan chiziqlimas kondensatorlar nima deb
+            ataladi
           </td>
-        </tr>
-        <tr>
-          <td>3</td>
-        </tr>
-        <tr></tr>
-        <tr>
-          <td>•</td>
+          <td>varikaplar</td>
         </tr>
         <tr>
           <td>
-            Murrakab obyektlarning xussusiyati va munosabatlarini aks ettiruvchi
-            chiziqsiz ko’p bog’lamli dinamik
+            Kirish kuchlanishining nisbiy o’zgarishini chiqish kuchlanishining,
+            ya’ni stabilizasiya kuchlanishining nisbiy o’zgarishiga nisbati nima
+            deb ataladi
           </td>
-        </tr>
-        <tr>
-          <td>tuzilmasi.</td>
-        </tr>
-        <tr>
-          <td>Graf</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>stabilizasiya koeffisiyenti</td>
         </tr>
         <tr>
           <td>
-            Agar grafning munosabatlarini tasvirlashda qirralardan foydalanilsa,
-            u holda graf ... deyiladi.
+            Kirish va chiqish qismi elektr izolyasiyali optik bog’lanishga ega
+            bo’lgan nurlanish manbai va qabul qiluvchi (fotopriyomnik)dan
+            tashkil topgan yarim o’tkazgichli optoelektron qurilma
+            hisoblanadi.Bu qanday qurilma?
+          </td>
+          <td>optopara</td>
+        </tr>
+        <tr>
+          <td>Ko’chkili diod deb qanday diodga aytiladi?</td>
+          <td>
+            teskari rejimda ishlovchi va o’ta yuqori chastotali tebranishlar
+            hosil qilish uchun qo’llaniladigan diodlarga
           </td>
         </tr>
         <tr>
-          <td>Yo’naltirilmagan</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Tiristorlarda qanday teshilish turlarini kuzatish mumkin</td>
+          <td>barcha javoblar to’g’ri</td>
         </tr>
         <tr>
           <td>
-            Agar grafning munosabatlarini tasvirlashda yoylardan foydalanilsa, u
-            holda graf ... deyiladi.
+            Mikrozarrachalarning (elektronlarning) to’liq energiyasi potensial
+            to’siq balandligidan kichik bo’lsa ham, shu to’siq bo’ylab o’z
+            energiyasini o’zgartirmasdan o’tib ketishiga …. deb ataladi
           </td>
-        </tr>
-        <tr>
-          <td>Yo’naltirilgan</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Tunnel effekti</td>
         </tr>
         <tr>
           <td>
-            Agar grafning munosabatlarini tasvirlashda yoy va qirralardan
-            foydalanilsa, u holda graf ... deyiladi.
+            Donorli yarim o’tkazgichlarda elektr o’tkazuvchanlik …….. hisobiga
+            paydo bo’ladi
           </td>
-        </tr>
-        <tr>
-          <td>Aralash</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Asosan elektronlar</td>
         </tr>
         <tr>
           <td>
-            Agar grafning munosabatlariga og’irlik qiymati belgilansa, u holda
-            graf ... deyiladi.
+            Akseptorli yarim o’tkazgichlarda elektr o’tkazuvchanlik ……..
+            hisobiga paydo bo’ladi
           </td>
-        </tr>
-        <tr>
-          <td>Vaznga ega</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Grafning tartibi nimaga teng</td>
-        </tr>
-        <tr>
-          <td>Uchlar soniga</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Grafning o’lchami nimaga teng</td>
-        </tr>
-        <tr>
-          <td>Qirralar soniga</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Grafning tugun darajasi bu</td>
-        </tr>
-        <tr>
-          <td>undan chiquvchi qirralar soni xisoblanadi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Qaysi biri true kalit so’ziga mos qiymatini aniqlaydi?</td>
-        </tr>
-        <tr>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Qaysi biri false kalit so’ziga mos qiymatini aniqlaydi?</td>
-        </tr>
-        <tr>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Shartli operator if tanasi qachon bajariladi?</td>
-        </tr>
-        <tr>
-          <td>rost (true)</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Asosan kovaklar</td>
         </tr>
         <tr>
           <td>
-            Qaysi kalit so’z butun sonli o’zgaruvchi faqat musbat qiymatlarni
-            qabul qilishini ko’rsatadi?
+            Yarim o’tkazgichlarda elektronlarning kovaklar bilan birikib
+            yo’qolish jarayoniga ……… deyiladi
+          </td>
+          <td>Rekombinasiya</td>
+        </tr>
+        <tr>
+          <td>p-n o’tishda ekstraksiya hodisasi deb nimaga aytiladi?</td>
+          <td>
+            p-n o’tishda asosiy zaryad tashuvchilarning elektr maydon ta’sirida
+            so’rib olinishiga
           </td>
         </tr>
         <tr>
-          <td>unsigned</td>
+          <td>p-n o’tishda injeksiya …..</td>
+          <td>
+            p-n o’tishda potensial to’siq balandligi pasaytirish hisobiga zaryad
+            tashuvchilarning asosiy hisoblangan sohaga o’tkazish
+          </td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Akseptorli aralashma nima?</td>
+          <td>
+            elektronlarni qabul qiluvchi, erkin kovaklar vujudga keltiruvchi
+            aralashma
+          </td>
+        </tr>
+        <tr>
+          <td>p-n o’tishni qaysi usullar bilan olish mumkin?</td>
+          <td>Diffuziya, epitaksiya va eritish</td>
+        </tr>
+        <tr>
+          <td>Reaktiv qarshilik ifodasini ko’rsating</td>
         </tr>
         <tr>
           <td>
-            Massivning oxirgi elemenning tartib raqami nimaga teng bo’ladi, agar
-            massiv o’lchami 19 teng bo’lsa?
+            Elektr zanjiridagi tebranish konturi uchun tebranish davri ifodasini
+            (Tomson formulasini) ko’rsating
           </td>
-        </tr>
-        <tr>
-          <td>18</td>
-        </tr>
-        <tr>
-          <td>•</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmasi ustida qanday to’rtta asosiy amal bajariladi
+            Elektromagnit tebranishda siklik chastota ifodasini ko’rsating
           </td>
         </tr>
         <tr>
-          <td>yaratish, o’chirish, tanlash (ruxsat olish), yangilash.</td>
+          <td>Elektromagnit tebranishda chastota ifodasini ko’rsating</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Berilgan =628 rad/s uchun davr «T» nimaga teng</td>
+          <td>T=0,01 s</td>
+        </tr>
+        <tr>
+          <td>Induktiv qarshilik ifodasini ko’rsating</td>
+          <td>XL = ωL</td>
+        </tr>
+        <tr>
+          <td>Sig’im qarshiligi ifodasini ko’rsating</td>
+        </tr>
+        <tr>
+          <td>L=16 mGn; υ=50 Gs; </td>
+          <td>5,024 Om</td>
+        </tr>
+        <tr>
+          <td>O’tkazgichdagi elektr toki deganda nimani tushunasiz</td>
+          <td>
+            O’tkazgich bo’ylab zaryadlangan zarracha-larning tartibli harakati
+          </td>
+        </tr>
+        <tr>
+          <td>Elektr kuchlanishi deb nimaga aytiladi</td>
+          <td>Ikki nuqta orasidagi potensiallar farqi</td>
+        </tr>
+        <tr>
+          <td>Bir megagers necha gersga teng: </td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlarni kompyuter xotirasda akslantirish nechta bosqichdan
-            iborat?
+            O’zgaruvchan tokning burchak chastotasi quyidagi belgilashlarning
+            qaysi biri bilan ko’rsatiladi
           </td>
         </tr>
         <tr>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ma’lumotlar tuzilmasi mazmunli (matematik) bosqichda ...</td>
+          <td>Elektr zaryadining o’lchov birligini ko’rsating</td>
+          <td>Kl</td>
         </tr>
         <tr>
           <td>
-            konkret obyektning qayta ishlash, ularning xussusiyatlari va
-            munosabatlarini tadqiq qilinadi.
+            Aktiv qarshilik elementida iste’mol qilanayotgan manba enegiyasi
+          </td>
+          <td>Issiqlik enegiyasiga aylanadi</td>
+        </tr>
+        <tr>
+          <td>Elektr zanjirlari deb ...</td>
+          <td>
+            elektromagnit jarayonlarini ifodalanishda elektr yurituvchi kuch,
+            tok va kuchlanish tushunchalaridan foydalanish mumkin bo‘lgan,
+            elektr toki oqishi uchun yo‘llarni hosil qiluvchi qurilmalar va
+            ob’ektlar majmualariga aytiladi
           </td>
         </tr>
         <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ma’lumotlar tuzilmasi mantiqiy bosqichda ...</td>
+          <td>Elektromagnit energiyani uzatish elementlariga nimalar kiradi</td>
+          <td>barcha javoblar to‘g‘ri</td>
         </tr>
         <tr>
           <td>
-            berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq
-            qilinadi.
+            Elektr zanjiri elektromagnit energiyasi manbalari bo‘lmagan qismini
+            ... deb ataymiz
           </td>
+          <td>zanjirning passiv qismi</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>Elektr jihozi ishlaganda uzoq vaqt xizmat qiladi</td>
+          <td>Nominal ish rejimida</td>
         </tr>
         <tr>
-          <td>Ma’lumotlar tuzilmasi fizik bosqichda ...</td>
+          <td>Elektr energiya bu …… energiyadir</td>
+          <td>Elektr va magnit maydon</td>
+        </tr>
+        <tr>
+          <td>Elektr toki deb …… aytiladi</td>
+          <td>Zaryadlangan zarralar tartibli harakatiga</td>
+        </tr>
+        <tr>
+          <td>Doimiy tok deb tokka aytiladi</td>
+          <td>Vaqt o’tishi bilan yo’nalishi va qiymatlari o’zgarmaydigan</td>
+        </tr>
+        <tr>
+          <td>O’zgaruvchan tok deb … tokka aytiladi</td>
+          <td>Yo’nalishi va qiymati sinus qonuni bo’yicha o’zgaradigan</td>
         </tr>
         <tr>
           <td>
-            kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.
+            Elektr zanjirining nominal ish rejimi deb …… mos bo’lgan rejim
+            tushiniladi
+          </td>
+          <td>
+            Elektr zanjiridagi tok, kuchlanish elektr zanjir elementlarining
+            zavod tomonidan ko’rsatilgan qiymatiga
           </td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>O’zgaruvchan tok … parametrlar bilan xarakterlanadi</td>
+          <td>Oniy, effektiv, maksimal, o’rtacha qiymat va davr, chastota</td>
         </tr>
         <tr>
           <td>
-            Bir xil tipdagi o’zaro takrorlanmaydigan elementlardan iborat majmua
+            Atom elektrostantsiyalarida …… energiya elektr energiyaga
+            aylantiriladi
           </td>
+          <td>Yadro</td>
         </tr>
         <tr>
-          <td>To’plam</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Bir xil tipdagi elementlar majmuasi</td>
-        </tr>
-        <tr>
-          <td>Massiv</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Turli tipdagi ma’lumotlardan qanday tuzilma xosil qilinadi?</td>
-        </tr>
-        <tr>
-          <td>Yozuv</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Turli tipdagi ma’lumot maydonlardan iborat tartibli tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>Jadval</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>O’zgaruvchan tokni … usulida tasvirlash mumkin</td>
+          <td>Analitik</td>
         </tr>
         <tr>
           <td>
-            Oddiy sozlangan ma’lumotlar turlari (atomlar)ga kuyidagilar kiradi:
+            O’zgaruvchan tok tenglamasidagi (ωt+φ) ifoda tokning …… deyiladi
           </td>
+          <td>Fazasi</td>
         </tr>
         <tr>
-          <td>mantiqiy, butun, xakikiy, belgili, ko’rsatkichli tur</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Sozlangan tuzilmaviy MT (molekulalar) ga kuyidagilar kiradi:</td>
-        </tr>
-        <tr>
-          <td>massiv, yozuv, rekursiv turlar, to’plam</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>ENUM kalit so’zi yordamida qanday tuzilma yaratiladi</td>
-        </tr>
-        <tr>
-          <td>Birlashma</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Xotirani dinamik ajratish uchun kalit so’zini ko’rsating</td>
-        </tr>
-        <tr>
-          <td>new</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Dinamik xotirani bo’shatish uchun kalit so’zini ko’rsating</td>
-        </tr>
-        <tr>
-          <td>delete</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Nega o’zgaruvchan tok chastotasi 50 Gts qilib olingan?</td>
+          <td>Ko’zning talabi shunday</td>
         </tr>
         <tr>
           <td>
-            int function(char x1, float x2, double x3)funksiya qiymatining
-            qaytarish turini ko’rsating
+            Elektr o’lchov asboblari o’zgaruvchan tokning qiymatni o’lchaydi
           </td>
-        </tr>
-        <tr>
-          <td>mas[6];</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Effektiv, ta'sir etuvchi</td>
         </tr>
         <tr>
           <td>
-            Turlarni keltirishda ma’lumotnng qisman yo’qotish bilan oshiriladi
+            O’zgarmas tok zanjiridagi R qarshilik o’zgaruvchan tok zanjiridagi R
+            qarshilik bilan bir xilmi?
           </td>
-        </tr>
-        <tr>
-          <td>int</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>O’zgaruvchan tok zanjiridagi R katta</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari bog’lanishiga ko’ra qo’yidagilarga
-            klassifikasiyalanadi
+            Aktiv qarshilik, aktiv quvvat tushunchasi qanday toklarga xos?
           </td>
-        </tr>
-        <tr>
-          <td>Bog’lamli va bog’lamsiz</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>O’zgaruvchan tokka</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari vaqt o’zgaruvchanligi yoki dastur
-            bajarilishi jarayoniga ko’ra qo’yidagilarga
+            Kondensator ulangan o’zgaruvchan tok zarjirida kuchlanish faza
+            bo’yicha tok kuchidan …… bo’ladi
           </td>
-        </tr>
-        <tr>
-          <td>klassifikasiyalanadi</td>
-        </tr>
-        <tr>
-          <td>Statik, yarimstatik va dinamik</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>900 keyinda</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari tartibiga ko’ra qo’yidagilarga
-            klassifikasiyalanadi
+            Induktiv g’altak ulangan o’zgaruv-chan tok zanjirida kuchlanish fazo
+            bo’yicha tok kuchidan …… bo’ladi
           </td>
-        </tr>
-        <tr>
-          <td>Chiziqli va chiziqsiz</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>900 oldinda</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari uchun xotira ajratish amali qanday nomlanadi
+            Aktiv qarshilikli o’zgaruvchan tok eanjirida kuchlanish va tok kuchi
+            orasidagi fazalar farqi … bo’ladi
           </td>
-        </tr>
-        <tr>
-          <td>yaratish</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>nolga teng</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari uchun ajratilgan xotirani o’chirish amali
-            qanday nomlanadi
+            Kuchlanishlar rezonansi R,L,C elementlar o’zaro …………………… ulangan
+            o’zgaruvchan tok zanjirida sodir bo’ladi
           </td>
-        </tr>
-        <tr>
-          <td>yo’qotish</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Ketma-ket</td>
         </tr>
         <tr>
           <td>
-            Ma’lumotlar tuzilmalari qiymatini o’zgartirish amali qanday
-            nomlanadi
+            Toklar rezononsi RC L elementlar o’zaro … ulangan o’zgaruvchan tok
+            zanjirida sodir bo’ladi
           </td>
-        </tr>
-        <tr>
-          <td>yangilash</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ma’lumotlar tuzilmalariga ruxsat olish amali qanday nomlanadi</td>
-        </tr>
-        <tr>
-          <td>tanlash (ruxsat)</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>X=3.1415; xaqiqiy sonning mantissasi nimaga teng bo’ladi</td>
-        </tr>
-        <tr>
-          <td>31415</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Paralel</td>
         </tr>
         <tr>
           <td>
-            Dastur bajarilish jarayonida xotira xajmi bir xil bo’lgan oddiy va
-            asosiy tuzilma to’plamlariga ... deyiladi.
+            Radiotexnikada … rezonansidan tebranish konturlarida kerakli
+            radiostantsiyalarning signallarini qabul qilishda foydalaniladi
           </td>
+          <td>Kuchlanishlar rezonansidan</td>
         </tr>
         <tr>
-          <td>Statik ma’lumotlar tuzilmasi</td>
+          <td>Uyimizdagi elektr hisoblagich elektr tokining o’lchaydi</td>
+          <td>Sarflangan energiyasini</td>
         </tr>
         <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ikkita satrni o’zaro taqqoslash funksiyasini ko’rsating</td>
-        </tr>
-        <tr>
-          <td>strcmp();</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Elektr zanjirlarini tekshirish uchun foydalaniladi</td>
+          <td>Avometrdan</td>
         </tr>
         <tr>
           <td>
-            Birinchi satrning davomida ikkinchi satrni qo’shish funksiyasini
-            ko’rsating
+            Elektr o’lchov asbobi shkalasi pastidagi korrektor nima uchun kerak
           </td>
-        </tr>
-        <tr>
-          <td>strcat ();</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Stek tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?</td>
-        </tr>
-        <tr>
-          <td>LIFO</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Navbat tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?</td>
-        </tr>
-        <tr>
-          <td>FIFO</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Stekga yangi element qushish funksiyasi qanday belgilanadi</td>
-        </tr>
-        <tr>
-          <td>Push</td>
-        </tr>
-        <tr>
-          <td>•</td>
+          <td>Asbob strelkasini nolga keltirish uchun</td>
         </tr>
         <tr>
           <td>
-            Stekdan yuqori elementini o’chirish funksiyasi qanday belgilanadi
+            Noelektrik kattalikni elektrik kattalikga aylantiruvchi asbob
+            deyiladi
+          </td>
+          <td>Datchik</td>
+        </tr>
+        <tr>
+          <td>Radioaloqa 1895 yilda …………… tomonidan amalga oshirilgan</td>
+          <td>A.S.Popov</td>
+        </tr>
+        <tr>
+          <td>Yarim o’tkazgichli asboblarda elektr toki yaxshi o’tadi</td>
+          <td>bir tomonga</td>
+        </tr>
+        <tr>
+          <td>Tranzistor so’zi degan ma'noni bildiradi</td>
+          <td>o’zgaruvcha qarshilik;</td>
+        </tr>
+        <tr>
+          <td>IMSning yarim o’tkazgichdan tayyorlangani kashf qilingan</td>
+          <td>1957 yilda</td>
+        </tr>
+        <tr>
+          <td>IMSlar to’rt turga bo’linadi</td>
+          <td>
+            bajaradigan vazifasi, funktsional maqsadi, yasalish texnologiyasi,
+            integratsiya darajasiga
           </td>
         </tr>
         <tr>
-          <td>Pop</td>
+          <td>IMSlar yasalish texnologiyasiga qarab turga bo’linadi</td>
+          <td>3, yarim o’tkazgichli, plyonkali, gibrid</td>
         </tr>
         <tr>
-          <td>•</td>
+          <td>IMSlar integratsiya darajasiga qarab turga bo’linadi</td>
+          <td>4, oddiy, o’rtacha, katta, o’ta katta IMS</td>
+        </tr>
+        <tr>
+          <td>Avtogeneratorlar yordamida …… tebranishlar ishlab chiqariladi</td>
+          <td>garmonik</td>
         </tr>
         <tr>
           <td>
-            Stekdan yuqori elementini o’qitib olish funksiyasi qanday
-            belgilanadi
+            Multivibratorlarda teskari bog’lanish koeffitsienti ……… bo’ladi
           </td>
+          <td>1 ga teng</td>
         </tr>
         <tr>
-          <td>Top</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Yarimstatik ma’lumotlar tuzilmasiga nimalar kiradi?</td>
-        </tr>
-        <tr>
-          <td>Stek, Dek, Navbat</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ro’yxatni massivdan ustunligini ko’rsating</td>
-        </tr>
-        <tr>
-          <td>ro’yxatni uzunligiga chegara belgilanmaydi</td>
-        </tr>
-        <tr></tr>
-        <tr>
-          <td>•</td>
+          <td>Multivibratorlarning …… ish rejimi bor</td>
+          <td>3 xil</td>
         </tr>
         <tr>
           <td>
-            Dastur bajarilish jarayonida xotira xajmi statik belgilanadi va
-            deskriptor-ko’rsatkich orqali foydalanilgan
+            Detektrlash jarayonini amalga oshiruvchi asbobga ………… deyiladi
           </td>
+          <td>detektor</td>
         </tr>
         <tr>
-          <td>tuzilma to’plamlariga ... deyiladi.</td>
+          <td>Detektorning asosiy elementi bo’lib ……… hisoblanadi</td>
+          <td>diod</td>
         </tr>
-        <tr>
-          <td>Yarimstatik ma’lumotlar tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Funksiyalarning qaysi biri kiritish oqimidan 100 belgini x satrga
-            o’qitadi?
-          </td>
-        </tr>
-        <tr>
-          <td>cin.getline(x,100);</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Stek bu ...</td>
-        </tr>
-        <tr>
-          <td>
-            chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va
-            chiqarish uning bir tomonidan amalga oshiriladi
-          </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Navbat bu...</td>
-        </tr>
-        <tr>
-          <td>
-            shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi
-            va elementlarni faqatgina bir tomondan qabul qiladi
-          </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Dek bu ...</td>
-        </tr>
-        <tr>
-          <td>
-            chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va
-            chiqarish uning ikki tomonlama amalga oshiriladi
-          </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Qanday kalit so’zi yordamida nol havola (bo’sh manzil) belgilanadi
-          </td>
-        </tr>
-        <tr>
-          <td>NULL</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Bir bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi</td>
-        </tr>
-        <tr>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Ikki bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi</td>
-        </tr>
-        <tr>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Dastur bajarilish jarayonida xotira xajmi aniqlangan yoki ularning
-            soni ma’lum bo’lishi tuzilma
-          </td>
-        </tr>
-        <tr>
-          <td>to’plamlariga ... deyiladi.</td>
-        </tr>
-        <tr>
-          <td>Dinamik ma’lumotlar tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Xalqasimon ro’yxatdan element o’chirilganda …</td>
-        </tr>
-        <tr>
-          <td>ro’yxat bitta elementga qisqaradi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Halqasimon ikki yo’nalishli ro’yxatda qaysi yo’nalishlar bo’yicha
-            xarakatlanish mumkin?
-          </td>
-        </tr>
-        <tr>
-          <td>ikkala</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Ro’yxat elementlarning ro’yxatlar bo’lishi mumkin tuzilma qanday
-            nomlanadi
-          </td>
-        </tr>
-        <tr>
-          <td>Lug’at</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            … - obyektni mazkur obyektga murojaat qilish orqali aniqlashdir.
-          </td>
-        </tr>
-        <tr>
-          <td>Rekursiya</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Ma’lumotlar tuzilmasi, tashkil qiluvchi elementlari qaysining
-            o’xshash elementlar bo’lsa, u xoda ...
-          </td>
-        </tr>
-        <tr>
-          <td>deyiladi.</td>
-        </tr>
-        <tr>
-          <td>Rekursiv ma’lumotlar tuzilmasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Rekursiv funksiyalar apparati kim tomondan kashf qilingan</td>
-        </tr>
-        <tr>
-          <td>A.Chyorch</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Rekursiya masalasini xal qiluvchi bosqichlari qanday nomlanadi
-          </td>
-        </tr>
-        <tr>
-          <td>Rekursiv triada</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Rekursiv triada qaysi bosqichlardan iborat</td>
-        </tr>
-        <tr>
-          <td>parametrizasiya, rekursiya bazasi va dekompozisiya</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Rekursiv triadaning qaysi bosqichida masala shartini tasniflash va
-            uni hal etish uchun parametrlar
-          </td>
-        </tr>
-        <tr>
-          <td>aniqlanadi.</td>
-        </tr>
-        <tr>
-          <td>parametrizasiya</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Rekursiv triadaning qaysi bosqichida masala yechimi aniq bo’lgan
-            trivial holat aniqlanadi, ya’ni bu holatda
-          </td>
-        </tr>
-        <tr>
-          <td>funksiyani o’ziga murojaat qilishi talab etilmaydi.</td>
-        </tr>
-        <tr>
-          <td>rekursiya bazasi</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Rekursiv triadaning qaysi bosqichida umumiy holatni nisbatan ancha
-            oddiy bo’lgan o’zgargan parametrli
-          </td>
-        </tr>
-        <tr>
-          <td>qism masalalar orqali ifodalaydi.</td>
-        </tr>
-        <tr>
-          <td>dekompozisiya</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Daraxtsimon tuzilmadagi shunday elementga murojaat yo’qki, u...
-            tugun xisoblanadi.
-          </td>
-        </tr>
-        <tr>
-          <td>ildiz</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Daraxtsimon tuzilmada boshqa elementlarga murojaat bo’lmasa, u...
-            tugun xisoblanadi.
-          </td>
-        </tr>
-        <tr>
-          <td>barg</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Qachon daraxt muvozanatlangan xisoblanadi?</td>
-        </tr>
-        <tr>
-          <td>
-            agar uning chap va o’ng qism daraxtlari balandligi farqi 1tadan ko’p
-            bo’lmasa
-          </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Chiziqsiz ma’lumotlar tuzilmasiga nimalar kiradi?</td>
-        </tr>
-        <tr>
-          <td>Daraxt, graf</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Daraxt balandligi – bu ...</td>
-        </tr>
-        <tr>
-          <td>daraxt bosqichlari soni</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Daraxt darajasi – bu ...</td>
-        </tr>
-        <tr>
-          <td>
-            Daraxtga tegishli tugunning munosabatlar sonining maksimal qiymati
-          </td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Minimal balandlikka ega daraxt</td>
-        </tr>
-        <tr>
-          <td>HEAP TREE</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Daraxt qanday nomlanadi, agar uning chiqish darajasi ikkidan
-            oshmasa.
-          </td>
-        </tr>
-        <tr>
-          <td>Binar</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Qidiruv daraxtda nechta va qaysilar ko’ruv amallarini ifodalaydi
-          </td>
-        </tr>
-        <tr>
-          <td>Uchta (to’g’ri, teskari, simmetrik)</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Kompyuter xotirasida binar daraxtni qanday ko’rinishda tasvirlash
-            qulay
-          </td>
-        </tr>
-        <tr>
-          <td>bog’langan chiziqsiz ro’yxatlar</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Daraxt uzunligi – bu ...</td>
-        </tr>
-        <tr>
-          <td>tugunlar soni</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Chiziqsiz iyerarxik bog’langan ma’lumotlar tuzilmasi – bu …</td>
-        </tr>
-        <tr>
-          <td>Daraxt</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>Daraxt tugunlar ketma-ketligini tartiblangan holda chiqarish</td>
-        </tr>
-        <tr>
-          <td>Ko’ruv amali</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Agar daraxtni tashkil etuvchi element (tugun)lardan faqat ikkita
-            tugun bilan bog’langan bo’lsa, u holda
-          </td>
-        </tr>
-        <tr>
-          <td>bunday binar daraxt ... deyiladi.</td>
-        </tr>
-        <tr>
-          <td>to’liq</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            56,34,60,23,40,65 sonlaridan xosil bo’lgan binar daraxt
-            muvozanatlanganmi yoki yo’qmi?
-          </td>
-        </tr>
-        <tr>
-          <td>xa</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Agar elementlar soni 100ta bo’lsa, u holda minimal balandga ega
-            daraxt balandligi nechiga teng bo’ladi?
-          </td>
-        </tr>
-        <tr>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Agar minimal balandga ega daraxt balandligi 10ga teng bo’lsa, u
-            holda maksimal elementlar soni nechiga
-          </td>
-        </tr>
-        <tr>
-          <td>teng bo’ladi</td>
-        </tr>
-        <tr>
-          <td>1023</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            Agar elementlar soni 10ta bo’lsa, u holda minimal balandga ega
-            daraxt balandligi nechiga teng bo’ladi?
-          </td>
-        </tr>
-        <tr>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>•</td>
-        </tr>
-        <tr>
-          <td>
-            10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxtda
-            nechta oraliq tugun mavjud
-          </td>
-        </tr>
-        <tr>
-          <td>4</td>
-        </tr>
-        <tr></tr>
       </table>
     </div>
   );
