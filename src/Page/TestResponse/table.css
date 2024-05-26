@@ -1,0 +1,13 @@
+.tablestyle {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  gap: 10px;
+  flex-direction: column;
+}
+
+tr {
+  border: 1px solid #000;
+  font-size: 16px;
+}
